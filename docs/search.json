@@ -1,0 +1,1778 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "BioBooks",
+    "section": "",
+    "text": "前言\n欢迎阅读同源基因科技有限责任公司生物信息大百科全书。本项目为生物信息电子书。\n本项目github地址: https://github.com/wangtong/biobooks.git\n\n\n\n\n\n\nNote\n\n\n\n内容逐步更新中.",
+    "crumbs": [
+      "前言"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "\n1  Introduction\n",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "\n2  Summary\n",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "References"
+    ]
+  },
+  {
+    "objectID": "source/1-intro/a1.html",
+    "href": "source/1-intro/a1.html",
+    "title": "1.1 生物信息云计算平台",
+    "section": "",
+    "text": "独享云服务器\n这次更新有很多亮点：",
+    "crumbs": [
+      "第一章 生物信息学习资料",
+      "1.1 生物信息云计算平台"
+    ]
+  },
+  {
+    "objectID": "source/1-intro/a1.html#独享云服务器",
+    "href": "source/1-intro/a1.html#独享云服务器",
+    "title": "1.1 生物信息云计算平台",
+    "section": "",
+    "text": "可以提供独享服务器，非常适合整个课题组使用；\n采用联通电信双百兆网络，访问更快速；\n采用专业独立存储，数据更安全；\n万兆内网，无感访问共享存储数据库；\n提供GPU服务器可供选择；\n配置大量最新生物软件，R环境，python环境；\n新增两台适合大部分项目的128核心CPU，512G型号；\n新增一台v3服务器供学员上机操作；\n提供了4种配置可供不同项目选择；\n价格仅为大厂公有云1/5到1/10价格。",
+    "crumbs": [
+      "第一章 生物信息学习资料",
+      "1.1 生物信息云计算平台"
+    ]
+  },
+  {
+    "objectID": "source/1-intro/a1.html#如何购买",
+    "href": "source/1-intro/a1.html#如何购买",
+    "title": "1.1 生物信息云计算平台",
+    "section": "如何购买",
+    "text": "如何购买\n截止到目前，我们已经有30台独享云服务器可供选择，根据实际计算需求进行选择即可，欢迎广大师生选购。",
+    "crumbs": [
+      "第一章 生物信息学习资料",
+      "1.1 生物信息云计算平台"
+    ]
+  },
+  {
+    "objectID": "source/1-intro/a1.html#如何选择",
+    "href": "source/1-intro/a1.html#如何选择",
+    "title": "1.1 生物信息云计算平台",
+    "section": "如何选择",
+    "text": "如何选择\n\nS类型：可供1-5人课题组使用，可完成细菌基因组，物种分类鉴定，16S，RNAseq等\nm类型：可供5-10人课题组使用，可完成宏基因组拼接，100M左右基因组拼接，单细胞数据分析等；\nx1类型 ：可供5-10人课题组使用，可完成宏基因组拼接，大型基因组拼接，人全基因组数据分析等；\np1类型：可以完成绝大部分数据分析，速度更快。\n\n注释：计算资源具体消耗无法精确衡量，与数据量大小，计算类型，计算峰值，磁盘读写速度，软件算法都有很大关系，实际使用过程中越大的计算资源，理论上计算速度越快。",
+    "crumbs": [
+      "第一章 生物信息学习资料",
+      "1.1 生物信息云计算平台"
+    ]
+  },
+  {
+    "objectID": "source/1-intro/a1.html#为什么选择我们的生物云计算平台",
+    "href": "source/1-intro/a1.html#为什么选择我们的生物云计算平台",
+    "title": "1.1 生物信息云计算平台",
+    "section": "为什么选择我们的生物云计算平台？",
+    "text": "为什么选择我们的生物云计算平台？\n我们的目标就是让用户上传数据，直接分析。\n\n十年生物数据分析从业经验，更懂用户；256G以上内存，满足绝大多数生物分析；\n全新Dell EMC服务器，磁盘包含冗余性，整机在数据中心机房，数据更加安全。\n100M独立企业网，上传数据最快可达到12M/s；\n已配置大量常用生物软件和数据库，省去自己安装软件大量时间，无需解决各种报错问题；\n自己购买改配置计算资源，市场价格在十几万以上，同等配置下云服务器每月价格将近4万元；\n无网络限制，国内国外皆可直接访问（外网由于物理距离原因，数据传输数据低于国内）；\n专家团队，快速解决软件使用过程中各种问题。",
+    "crumbs": [
+      "第一章 生物信息学习资料",
+      "1.1 生物信息云计算平台"
+    ]
+  },
+  {
+    "objectID": "source/1-intro/a1.html#常见问题",
+    "href": "source/1-intro/a1.html#常见问题",
+    "title": "1.1 生物信息云计算平台",
+    "section": "常见问题",
+    "text": "常见问题\n1.购买流程？\n直接添加下面作者微信，确定型号，给一个用户名和邮箱开通账号，开通发票，具体发票信息请微信联系。\n\n2.有roo他账户吗？\n独享云服务器包含root账户，可以同一课题组中其他成员开通账号，多人使用，无任何限制。\n3.自己可以安装软件吗？\n可以，系统已完成基础配置，常用软件都可以自行安装。如果默认的软件无法满足使用要求，管理员可以使用yum或者apt工具对系统环境进行配置。\n4.可以选择操作系统吗？\n目前我们提供AlmaLinux与Ubuntu Server系统可供选择。",
+    "crumbs": [
+      "第一章 生物信息学习资料",
+      "1.1 生物信息云计算平台"
+    ]
+  },
+  {
+    "objectID": "source/1-intro/a2.html",
+    "href": "source/1-intro/a2.html",
+    "title": "2  1.2 生物信息共享云平台",
+    "section": "",
+    "text": "2.1 机器配置\n在原有服务器基础之上，最近我们又采购了大量计算设备。根据计算需求不同，目前我们可提供14种配置可供选择，不同配置在CPU，内存和默认存储方面有所差别。",
+    "crumbs": [
+      "第一章 生物信息学习资料",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>1.2 生物信息共享云平台</span>"
+    ]
+  },
+  {
+    "objectID": "source/1-intro/a2.html#机器配置",
+    "href": "source/1-intro/a2.html#机器配置",
+    "title": "2  1.2 生物信息共享云平台",
+    "section": "",
+    "text": "生物云服务器价格表",
+    "crumbs": [
+      "第一章 生物信息学习资料",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>1.2 生物信息共享云平台</span>"
+    ]
+  },
+  {
+    "objectID": "source/1-intro/a2.html#如何选择",
+    "href": "source/1-intro/a2.html#如何选择",
+    "title": "2  1.2 生物信息共享云平台",
+    "section": "2.2 如何选择",
+    "text": "2.2 如何选择\n可根据个人分析数据大小和内容进行选择。\n\nA类型：少量样品RNAseq，16S，WGCNA，GEO表达分析，肿瘤panel等；\nB类型：该配置是通用型配置，可以满足绝大部分生物云计算需求，例如基因组的拼接，人全基因组，外显子，单细胞分析等；\nC类型：如果需要更多计算资源，需要更快时间完成计算，可以选择C类型，C类型用户较少，可以完成一些大型基因组的拼接，宏基因组的分析等。\nD类型：旗舰配置，可以完成大型计算，例如一些超大基因组拼接，宏基因组拼接，其中D1类型包含显卡，可以完成三代纳米孔测序碱基识别等；\nV类型：这三台设备主要服务于购买过教学视频用户，与其他服务器不同之处在于里包含了视频课程中全部案例数据，配合视频可以进行同步操作。也可以做一些小规模数据分析。",
+    "crumbs": [
+      "第一章 生物信息学习资料",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>1.2 生物信息共享云平台</span>"
+    ]
+  },
+  {
+    "objectID": "source/1-intro/a2.html#r环境",
+    "href": "source/1-intro/a2.html#r环境",
+    "title": "2  1.2 生物信息共享云平台",
+    "section": "2.3 R环境",
+    "text": "2.3 R环境\n我们的云服务器里已经配置了R语言的使用环境，并且安装了大量R的扩展包，用户可以直接使用。RNAseq和单细胞直接使用即可分析。也可以安装自己需要的R包。\n\n\n\nR语言环境",
+    "crumbs": [
+      "第一章 生物信息学习资料",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>1.2 生物信息共享云平台</span>"
+    ]
+  },
+  {
+    "objectID": "source/1-intro/a2.html#上传数据直接分析",
+    "href": "source/1-intro/a2.html#上传数据直接分析",
+    "title": "2  1.2 生物信息共享云平台",
+    "section": "2.4 上传数据，直接分析",
+    "text": "2.4 上传数据，直接分析\n我们的生物云为用户解决了常用生物软件，生物数据库的配置问题。100M企业网络，可提供更快速网络数据上传和下载。这还不够，我们还为用户准备了大量软件使用脚本以及大量生物数据分析案例，在服务器里直接运行即可得到结果，省去自己准备数据的大量时间，可以快速掌握一项分析技能。\n\n除了软件之外，我们还配置好了大量生物数据库，例如metamaps库，centrifuge库，最新nr，nt，blast索引，diamond索引，kraken索引，kraken2索引，metaphlan索引，humann索引等，省去大量下载数据时间。真正让您”上传数据，直接分析”。",
+    "crumbs": [
+      "第一章 生物信息学习资料",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>1.2 生物信息共享云平台</span>"
+    ]
+  },
+  {
+    "objectID": "source/1-intro/a2.html#内置bioconda",
+    "href": "source/1-intro/a2.html#内置bioconda",
+    "title": "2  1.2 生物信息共享云平台",
+    "section": "2.5 内置bioconda",
+    "text": "2.5 内置bioconda\n由于管理员安装的bioconda只能使用里面的软件，如果自己安装软件需要将bioconda安装到自己目录下， 这点不如rstudio-server方便。现在我们直接为用户安装好了bioconda。而且选择了miniforge版本，这个版本可以直接使用mamba命令，使用更快。登录账户之后，直接使用即可，例如安装bwa以及samtools软件。只需要运行下面命令即可。\nmamba install -n base -y bwa samtools\n同时，我们还提供了一个超过700多行的软件安装命令。可以直接使用grep命令搜索需的软件，然后直接安装。软件列表包括了基因组拼接，rnaseq，单细胞测序，宏基因组，R语言，python语言等安装。\n例如我们想要安装一个宏基因组分析的kraken2软件。\n(base) wangtong 09:01:13 ~\n$ grep \"kraken2\" mamba.sh \nmamba create -n kraken2 -y\nmamba activate kraken2\nmamba install -n kraken2 -y fastqc \nmamba install -n kraken2 -y fastp\nmamba install -n kraken2 -y multiqc\nmamba install -n kraken2 -y seqkit\nmamba install -n kraken2 -y bowtie2 \nmamba install -n kraken2 -y samtools\nmamba install -n kraken2 -y krakentools\nmamba install -n kraken2 -y kraken2\nmamba install -n kraken2 -y bracken \nmamba install -n kraken2 -y krona\n搜索到了，直接安装即可。为了便于管理，这里推荐大家多创建虚拟环境。否则当软件过多时相互之间会有依赖冲突。\n#创建kraken2环境\nmamba create -n kraken2 -y\n#安装kraken2软件\n\nmamba install -n kraken2 -y kraken2\n更多软件，可以查看每个账户目录下的mamba.sh文件。老用户可以直接将该文件拷贝至个人目录下。\ncp /ifs1/Software/mamba.sh ~\n\n\n\n生物软件安装脚本",
+    "crumbs": [
+      "第一章 生物信息学习资料",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>1.2 生物信息共享云平台</span>"
+    ]
+  },
+  {
+    "objectID": "source/1-intro/a2.html#常见问题",
+    "href": "source/1-intro/a2.html#常见问题",
+    "title": "2  1.2 生物信息共享云平台",
+    "section": "2.6 常见问题",
+    "text": "2.6 常见问题\n1.购买流程？\n直接添加下面作者微信，确定型号，给一个用户名和邮箱开通账号，开通发票，具体发票信息请微信联系。\n\n2.有流程吗？\n没有流程，只提供计算资源，具体分析需要每个人独立完成。请有Linux操作经验的用户购买。本服务器主要用于真实数据分析，想学习Linux或者学习生物信息，请购买我们VIP，或者单独购买一些小的云服务器。\n3.整台服务器一个人用吗？\n我们的生物云属于共享模式，也就是多人共同使用，这样才能极大降低价格，充分利用资源，由于计算资源足够大，每个人都够用。每个人不能占据全部计算资源的一半。例如一共256线程，单个用户同时最多不超过128线程，这样错峰使用，大家可以同时流畅运行。\n4.我的数据被别人拷贝走了怎么办？\n每个用户都为普通用户，每个人的数据只有自己可以访问，相互之间并不干扰。\n5.自己可以安装软件吗？\n可以，系统已完成基础配置，常用软件都可以自行安装。如果默认的软件无法满足使用要求，也可以自己安装使用bioconda软件管理工具，完成7000余款软件的安装。\n6.磁盘不够怎么办？\n如果默认的2T磁盘不够用，可以选择付费增加存储空间，0.5元1G每月，比如要增加1T，则每月额外支付512元。",
+    "crumbs": [
+      "第一章 生物信息学习资料",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>1.2 生物信息共享云平台</span>"
+    ]
+  },
+  {
+    "objectID": "source/1-intro/a3.html",
+    "href": "source/1-intro/a3.html",
+    "title": "1.3 生物信息视频课程",
+    "section": "",
+    "text": "课程介绍\n4500元= 290集加密视频 + 6个月上机操作+文字讲义+PPT+案例代码+微信答疑群\n1、渠道一：\n添加下面微信，转账付款，发送下载地址，进行课程解锁，获取账号，开发票等事宜。\n手机微信扫描下方二维码",
+    "crumbs": [
+      "第一章 生物信息学习资料",
+      "1.3 生物信息视频课程"
+    ]
+  },
+  {
+    "objectID": "source/1-intro/a3.html#课程介绍",
+    "href": "source/1-intro/a3.html#课程介绍",
+    "title": "1.3 生物信息视频课程",
+    "section": "如何购买",
+    "text": "课程包含五个专题，分别是宏基因组，RNAseq和单细胞，基因组数据分析，R语言和python数据分析；\n提供本地版加密视频，加密视频仅在一台设备上播放，支持windows系统和苹果电脑 ，视频有效期至2028年12月31日；\n包括6个月上机操作，服务器内包含上课全部案例数据和代码，可配合视频快速学习；\n包含课程配套30万字讲义，大量PPT，10000+案例代码；\n加入微信答疑群；\n可开具发票，具体发票请添加下面微信。\n如何购买\n\n\n\n\n\n\n\n2、渠道二：\n淘宝付款购买：复制下面地址到浏览器中或者使用手机淘宝扫描二维码，付款完添加上面微信。\n淘宝链接：https://item.taobao.com/item.htm?spm=a21dvs.23580594.0.0.6ffb645ea5q4SL&ft=t&id=619716421433\n手机淘宝扫码二维码\n\n\n\n图片",
+    "crumbs": [
+      "第一章 生物信息学习资料",
+      "1.3 生物信息视频课程"
+    ]
+  },
+  {
+    "objectID": "source/1-intro/a3.html#课程目录",
+    "href": "source/1-intro/a3.html#课程目录",
+    "title": "1.3 生物信息视频课程",
+    "section": "课程目录",
+    "text": "课程目录\n\n专题一：宏基因组数据分析\n\n\n\nimage-20240218105445942\n\n\n\n\n专题二： RNAseq与单细胞数据分析\n\n\n\nimage-20240218105506842\n\n\n\n\n专题三： 测序原理与基因组数据分析\n\n\n\nimage-20240218105526119\n\n\n\n\n专题四： R语言数据分析专题\n\n\n\nimage-20240218105549671\n\n\n\n\n专题五： python数据分析专题\n\n\n\nimage-20240218105618837",
+    "crumbs": [
+      "第一章 生物信息学习资料",
+      "1.3 生物信息视频课程"
+    ]
+  },
+  {
+    "objectID": "source/1-intro/a3.html#上机操作",
+    "href": "source/1-intro/a3.html#上机操作",
+    "title": "1.3 生物信息视频课程",
+    "section": "上机操作",
+    "text": "上机操作\n\n\n\n图片",
+    "crumbs": [
+      "第一章 生物信息学习资料",
+      "1.3 生物信息视频课程"
+    ]
+  },
+  {
+    "objectID": "source/1-intro/a3.html#常见问题",
+    "href": "source/1-intro/a3.html#常见问题",
+    "title": "1.3 生物信息视频课程",
+    "section": "常见问题",
+    "text": "常见问题\n1、上机操作服务器是什么？\n我们生物信息培训理念一直是鼓励亲自上手操作，因此，课程都提供上机操作。上机操作为一个服务器账号，登录之后可以按照视频演示，在服务器中完成同样的操作，通过多反复练习来掌握生物信息。\n\n\n\n图片\n\n\n2、课程是否适合零基础？\n课程是《基因学苑VIP课程第2季》全部内容，额外加python数据分析专题，相当于43天培训的全部内容。里面包含了生物信息基础，Linux，生物软件管理，R，python，二三代测序原理等基础内容，还包括RNAseq，单细胞，宏基因组，16S，人基因组变异检测等应用内容。适合零基础从头开始学习。\n3、是否能只购买课程一部分？\n本课程为打包销售，不单独售卖。\n4、想在多台设备播放怎么办？\n课程为本地加密版本，只能在一台电脑设备上播放，windows系统和苹果系统均可，不支持手机端播放，也不支持录屏。因为视频内容很大且里面有很多操作演示，不适合手机端播放。默认只支持一台设备，如果想多台设备播放，每台加1000元。\n5、课程可以看多久？\n课程有效期到2028年12月31日。\n6、如何进行解锁？\n视频需要使用专用播放器进行播放，下载播放器，导入任何一个视频，将下图1所示的机器码发给我即可进行解锁，然后将解锁码填入图中2部分即可，一次解锁即可观看全部内容。\n\n\n\n图片\n\n\n7、是否可以开发票\n本教程提供发票，发票为电子发票，具体信息可添加上面微信进行咨询。",
+    "crumbs": [
+      "第一章 生物信息学习资料",
+      "1.3 生物信息视频课程"
+    ]
+  },
+  {
+    "objectID": "whole-game.html",
+    "href": "whole-game.html",
+    "title": "Whole game",
+    "section": "",
+    "text": "Our goal in this part of the book is to give you a rapid overview of the main tools of data science: importing, tidying, transforming, and visualizing data, as shown in",
+    "crumbs": [
+      "Whole game"
+    ]
+  },
+  {
+    "objectID": "visualize.html",
+    "href": "visualize.html",
+    "title": "Visualize",
+    "section": "",
+    "text": "After reading the first part of the book, you understand (at least superficially) the most important tools for doing data science. Now it’s time to start diving into the details. In this part of the book, you’ll learn about visualizing data in further depth.",
+    "crumbs": [
+      "Visualize"
+    ]
+  },
+  {
+    "objectID": "source/4-linux/linux1.html",
+    "href": "source/4-linux/linux1.html",
+    "title": "10  4.1 了解服务器？",
+    "section": "",
+    "text": "10.0.1 1 什么是服务器？\n什么是服务器呢。根据名字，服务器是用来提供服务的机器，你可以简单理解为一台计算性能更强的电脑，但其实二者还是有很多不同的。根据百度百词次条中的定义：服务器是计算机的一种，它比普通计算机运行更快、负载更高、价格更贵。服务器在网络中为其它客户机（如PC机、智能手机、ATM等终端甚至是火车系统等大型设备）提供计算或者应用服务。服务器具有高速的CPU运算能力、长时间的可靠运行、强大的I/O外部数据吞吐能力以及更好的扩展性。\n根据服务器所提供的服务，一般来说服务器都具备承担响应服务请求、承担服务、保障服务的能力。服务器作为电子设备，其内部的结构十分的复杂，但与普通的计算机内部结构相差不大，如：cpu、硬盘、内存，系统、系统总线等。\n​ \n图 1 服务器的应用\n现代社会的运行需要大量的计算资源，例如商业系统，医疗卫生，交通运输，电信网络，证券交易，互联网等都需要大量服务器作为后台支撑。一旦服务器宕机，将会造成大量的影响。例如2021年10月Facebook、Instagram、WhatsApp的网站和App曾集体出现宕机，持续时间超6个小时，市值一夜蒸发超640亿美元。\n\n\n10.0.2 2 做生物信息，为什么要使用服务器？\n在基因测序领域，每天将产生大量的测序数据，这些测序数据需要大量的计算机存储设备进行存储，传输，计算分析等，这些都需要大量的计算资源，也就是服务器。因此做生物信息需要充足的计算资源。\n所以，如果想做生物信息，最好还是使用服务器。\n第一：计算资源大，因为生物数据很大，需要非常大的计算量，而个人电脑一般情况下是完成不了的。比如一般人笔记本 也就是8G内存或者16G内存。而一些分析， 比如拼接一个真菌的基因组，有可能需要100G内存，个人电脑是根本完成不了的，你说我不着急，让笔记本慢慢处理，这不是能用时间换空间的问题，如果内存不够，就是完成不了。\n第二：在做生物数据计算的时候，需要频繁的去读写磁盘，这对笔记本的磁盘是不太好的，那服务器的磁盘就没问题吗，当然不能这么绝对说服务器的磁盘就永远不坏。只不过服务器的磁盘一般做成RAID阵列，不仅能够提高磁盘读写效率，更重要的是可以进行容错，比如一块磁盘坏了，数据还可以恢复，个人电脑就不太容易了。\n第三：服务器一般可以连续运行，不用关机，如果突然宕机或者关机那就是重大事故了，比如微信或者支付宝后台服务器突然死机了，那将损失惨重。在做生物信息分析的时候，有一些分析非常 耗时，比如拼接一个大的基因组，可能需要10几天，你不能10几天让笔记本电脑一直不关机运行吧，下班了还开着盖子捧着走。那可以设置盒盖之后继续运行吗，但是万一不小心断掉了，那么就功亏一窥了。\n综上原因，我们还是非常强烈推荐大家做分析的时候使用服务器来做。当然，如果只提取几条序列，瞬间就完成了，需要的计算资源很小，当然也是可以在自己电脑上完成了。\n\n\n10.0.3 3 做生物信息，需要多少计算资源？\n做生物信息，需要多少计算资源？这个问题很难计算，因为生物数据分析的计算资源需求是动态变化的，影响因素较多，很难计算。主要与数据量大小，软件算法，磁盘读写速度，CPU运行速度以及计算量大小有关。例如同样的数据拼接基因组要比序列比对消耗更多的计算资源。构建系统发育树，虽然数据量很小，但计算量较大，因此，很难估算具体需要多少计算资源，例如多少CPU，多少内存，多少磁盘这些具体指标。只能根据经验值预估。\n计算资源没有上限，越大的计算资源计算速度越快，就可以更快的拿到结果。但是计算资源\n有下限。例如拼接一个基因组需要100G内存，如果只有90G内存，则无法完成。\n下面我们拿一个具体案例来看一下做生物信息对计算资源的消耗。\n假设人基因组大小约等于3G数据，这个碱基数目就和计算机里面的字节数目近似。当前的测序技术，例如illumina测序，如果要对一个人全基因组进行测序，至少要30X数据，也就是测序3基因组大小的30倍，共90G。而每个文件中除了碱基序列信息，还包括ID信息，质量值信息等，那么总字节数目至少要基因组大小的70倍，也就是210G，而每次测序都要被30X数据在多一些。不够文件可以进行压缩。最终所占存储要低很多，这里是一个人全基因组分析的案例，原始测序数据两个文件，共86G存储。\n(base) root 16:41:05 /ifs1/Sequencing/Korea/wgs_data/rawdata\n $ ll\n total 86G\n -rw-r--r--. 1 root root 39G Nov 24 2019 KPGP-00216_L1_R1.fq.gz\n -rw-r--r--. 1 root root 56 Nov 24 2019 KPGP-00216_L1_R1.fq.gz.md5\n -rw-r--r--. 1 root root 48G Nov 24 2019 KPGP-00216_L1_R2.fq.gz\n -rw-r--r--. 1 root root 56 Nov 24 2019 KPGP-00216_L1_R2.fq.gz.md5\n开始进行分析，例如最简单的进行与参考序列的比对，参考序列就是人全基因组以及一些索引。这个所占存储不多，5G左右，其实序列本身可以不需要。\n(base) root 16:44:31 /ifs1/Sequencing/Korea/wgs_data/cleandata\n\n$ ll /ifs1/Database/GATK/hg38/Homo_sapiens_assembly38.*\n\n-rwxr-xr-x. 1 root root 20K Oct 25 2019 /ifs1/Database/GATK/hg38/Homo_sapiens_assembly38.amb\n -rwxr-xr-x. 1 root root 445K Oct 25 2019 /ifs1/Database/GATK/hg38/Homo_sapiens_assembly38.ann\n -rwxr-xr-x. 1 root root 3.0G Oct 25 2019 /ifs1/Database/GATK/hg38/Homo_sapiens_assembly38.bwt\n -rwxr-xr-x. 1 root root 569K Oct 25 2019 /ifs1/Database/GATK/hg38/Homo_sapiens_assembly38.dict\n -rwxr-xr-x. 1 root root 3.1G Oct 25 2019 /ifs1/Database/GATK/hg38/Homo_sapiens_assembly38.fasta\n -rwxr-xr-x. 1 root root 477K Oct 25 2019 /ifs1/Database/GATK/hg38/Homo_sapiens_assembly38.fasta.64.alt\n -rwxr-xr-x. 1 root root 158K Oct 25 2019 /ifs1/Database/GATK/hg38/Homo_sapiens_assembly38.fasta.fai\n -rwxr-xr-x. 1 root root 768M Oct 25 2019 /ifs1/Database/GATK/hg38/Homo_sapiens_assembly38.pac\n -rwxr-xr-x. 1 root root 1.5G Oct 25 2019 /ifs1/Database/GATK/hg38/Homo_sapiens_assembly38.sa\n接下来就是将测序数据与参考序列进行比对，本质上是将这两部分数据进行合并，并且记录位置信息，这样可以计算所占存储空间就是测序数据48G+参考序列3G，然后还要加比对位置信息等，所以最终比对结果占的空间很大。这个案例中，原始出来的sam格式，需要251G存储，然后对这个原始结果进行一系列处理，包括排序，转换bam，标记Duplication，BQSR等操作。如果每一步奏都保留，最终需要372G。当然，如果想节约存储，可以只保留最终的BQSR，只需要51G。峰值需要372G。\n(base) root 16:51:05 /ifs1/Sequencing/Korea/wgs_data/bam\n $ ll\n total 372G\n -rw-r--r--. 1 root root 2.9K Nov 24 2019 Sample1.markdup_metrics.txt\n -rw-r--r--. 1 root root 251G Nov 24 2019 Sample1.sam\n -rw-r--r--. 1 root root 9.0M Nov 24 2019 Sample1.sorted.bai\n -rw-r--r--. 1 root root 35G Nov 24 2019 Sample1.sorted.bam\n -rw-r--r--. 1 root root  0 Nov 24 2019 Sample1.sorted.bam.bc\n -rw-r--r--. 1 root root 36G Nov 24 2019 Sample1.sorted.markdup.bam\n -rw-r--r--. 1 root root 9.0M Nov 24 2019 Sample1.sorted.markdup.bam.bai\n -rw-r--r--. 1 root root 9.0M Nov 24 2019 Sample1.sorted.markdup.BQSR.bai\n -rw-r--r--. 1 root root 51G Nov 24 2019 Sample1.sorted.markdup.BQSR.bam\n -rw-r--r--. 1 root root 213K Nov 24 2019 Sample1.sorted.markdup.recal_data.table\n最终得到的变异检测结果是一个列表，有几百万行，这个因为不包括序列信息，文件大小就会小很多。这个案例中，最终结果不到200M，中间过程也就8G左右。\n(base) root 16:53:42 /ifs1/Sequencing/Korea/wgs_data/vcf\n $ ll\n total 8.0G\n -rw-r--r--. 1 root root 43K Nov 24 2019 a.state\n -rw-r--r--. 1 root root 7.0G Nov 24 2019 Sample1.HC.g.vcf.gz\n -rw-r--r--. 1 root root 5.2M Nov 24 2019 Sample1.HC.g.vcf.gz.tbi\n -rw-r--r--. 1 root root 2.8M Nov 24 2019 Sample1.HC.snps.indel.plots.R\n -rw-r--r--. 1 root root 6.2M Nov 24 2019 Sample1.HC.snps.indel.plots.R.pdf\n -rw-r--r--. 1 root root 64M Nov 24 2019 Sample1.HC.snps.indel.recal\n -rw-r--r--. 1 root root 823K Nov 24 2019 Sample1.HC.snps.indel.recal.idx\n -rw-r--r--. 1 root root 593 Nov 24 2019 Sample1.HC.snps.indel.tranches\n -rw-r--r--. 1 root root 233M Nov 24 2019 Sample1.HC.snps.indel.VQSR.vcf.gz\n -rw-r--r--. 1 root root 2.2M Nov 24 2019 Sample1.HC.snps.indel.VQSR.vcf.gz.tbi\n -rw-r--r--. 1 root root 3.9M Nov 24 2019 Sample1.HC.snps.plots.R\n -rw-r--r--. 1 root root 8.1M Nov 24 2019 Sample1.HC.snps.plots.R.pdf\n -rw-r--r--. 1 root root 309M Nov 24 2019 Sample1.HC.snps.recal\n -rw-r--r--. 1 root root 7.3M Nov 24 2019 Sample1.HC.snps.recal.idx\n -rw-r--r--. 1 root root 589 Nov 24 2019 Sample1.HC.snps.tranches\n -rw-r--r--. 1 root root 7.3K Nov 24 2019 Sample1.HC.snps.tranches.pdf\n -rw-r--r--. 1 root root 228M Nov 24 2019 Sample1.HC.snps.VQSR.vcf.gz\n -rw-r--r--. 1 root root 2.2M Nov 24 2019 Sample1.HC.snps.VQSR.vcf.gz.tbi\n -rw-r--r--. 1 root root 195M Nov 24 2019 Sample1.HC.vcf.gz\n -rw-r--r--. 1 root root 2.2M Nov 24 2019 Sample1.HC.vcf.gz.tbi\n注释需要下载各种注释库，这个也需要一定的存储空间，这里下载dbsnp等，一共需要14G左右空间。\n(base) root 16:55:50 /ifs1/Database/GATK/hg38\n $ ll\n total 14G\n -rwxr-xr-x. 1 root root 51M Oct 25 2019 1000G_omni2.5.hg38.vcf.gz\n -rwxr-xr-x. 1 root root 1.5M Oct 25 2019 1000G_omni2.5.hg38.vcf.gz.tbi\n -rwxr-xr-x. 1 root root 1.8G Oct 25 2019 1000G_phase1.snps.high_confidence.hg38.vcf.gz\n -rwxr-xr-x. 1 root root 2.1M Oct 25 2019 1000G_phase1.snps.high_confidence.hg38.vcf.gz.tbi\n -rwxr-xr-x. 1 root root 3.0M Oct 25 2019 Axiom_Exome_Plus.genotypes.all_populations.poly.hg38.vcf.gz\n -rwxr-xr-x. 1 root root 412K Oct 25 2019 Axiom_Exome_Plus.genotypes.all_populations.poly.hg38.vcf.gz.tbi\n -rwxr-xr-x. 1 root root 1.5G Oct 25 2019 dbsnp_138.hg38.vcf.gz\n -rwxr-xr-x. 1 root root 2.3M Oct 25 2019 dbsnp_138.hg38.vcf.gz.tbi\n -rwxr-xr-x. 1 root root 3.0G Oct 25 2019 dbsnp_144.hg38.vcf.gz\n -rwxr-xr-x. 1 root root 2.4M Oct 25 2019 dbsnp_144.hg38.vcf.gz.tbi\n -rwxr-xr-x. 1 root root 3.2G Oct 25 2019 dbsnp_146.hg38.vcf.gz\n -rwxr-xr-x. 1 root root 2.4M Oct 25 2019 dbsnp_146.hg38.vcf.gz.tbi\n -rwxr-xr-x. 1 root root 172M Oct 25 2019 hapmap_3.3_grch38_pop_stratified_af.vcf.gz\n -rwxr-xr-x. 1 root root 1.5M Oct 25 2019 hapmap_3.3_grch38_pop_stratified_af.vcf.gz.tbi\n -rwxr-xr-x. 1 root root 60M Oct 25 2019 hapmap_3.3.hg38.vcf.gz\n从以上这些过程可以看到，分析一个人全基因组至少需要86+48+51+8G=193G，此外，人参考序列和注释库共18G左右。这是最低值，如果保留全部数据，那么至少需要532G的存储。这是一个人的内容。当然也有很多节省的方法，例如测序得到的就是cleandata，及时删除中间结果，对所有结果进行深度压缩，这些都可以节约一些存储，以上数字只做参考。\n上面案例我们介绍的是二代illumina测序，如果是纳米孔测序，则需要更多的磁盘，因为纳米孔测序需要保留最原始的数据，而且需要测序更多的倍数。例如想要利用纳米孔测序做人全基因组分析，至少要测序45X数据，就是135G。而fast5存储内容大约是fastq文件的10倍，实际还要包括中间存储等，一般计算20倍刚好，那么原始fast5存储大约是2700G，这样一个人全基因组测序原始数据则需要差不多3T的磁盘。\n\n\n10.0.4 4 服务器与个人电脑的差别？\n现代社会，每个人都有很多计算资源，例如个人电脑，智能手机，智能手表，智能汽车以及各种智能设备都属于一个计算设备。但这些都属于个人消费的智能设备，与服务器有很大的区别。\n我们自己使用的笔记本电脑叫做个人电脑PC，peronal computer，个人电脑与服务器最大的区别就是个人电脑一般就你一个人用，而服务器对外提供服务，可以很多人一起使用。比如我们是如何访问一个网站的呢，个人客户端发送一个请求到服务器，服务器端收到这个请求就开始进行处理，可以很多人同时提供请求，服务器并行处理。但是这个请求也不是无限的，比如服务器一次只能处理1百万个请求，那么一次出现1千次请求，服务器就处理不了就会卡顿或者拒绝请求。这就是为什么经常某某明星结婚了，出轨了，离婚了上了微博热搜榜，服务器就卡顿了，这是因为同一时间给服务器发送请求获取信息，服务器处理不了就瘫痪了。包括春运火车票等都是同样的道理。\n下面我们来系统介绍一下服务器与这些设备之间的差别。\n一、使用场景不同\n服务器是对外提供服务的，需要较多的计算资源，服务器一般不需要关机，需要持续工作，稳定性是最重要的。\n二、计算能力不同\n服务器大都是多颗CPU，个人消费设备一般是单个CPU。内存方面，服务器要处理大量的任务，往往需要更高的内存。磁盘方面，服务器为了数据安全和较大的IO操作，需要高速读写磁盘，而且还需要为磁盘创建RAID。\n三、扩展性方面\n随着业务的开展，服务器计算资源不够的情况下要能够进行扩展。一般服务器都有较好的扩展性，可以在不关机的情况下对内存，磁盘进行扩展。例如当有一块磁盘坏掉的情况下，直接进行更换。\n四、多用户多任务\n个人电脑设备一般只有一个用户，而服务器可以满足多个用户多个任务同时运行。例如一台游戏服务器，可以多个账号同时登录进行操作。\n五、安全性方面\n由于服务器是网络中的核心设备，因此它必须具备高可靠性、安全性。服务器采用专用的ECC内存、RAID技术、热插拔技术、冗余电源、冗余风扇等方法使服务器具备容错能力、安全保护能力。\n六、价格\n服务器价格较贵，而个人电脑相对比较便宜。\n\n\n10.0.5 5 测试服务器\n作为生物数据计算平台搭建，需要使用root权限，可以购买一台云服务器作为测试学习使用。配置不用太高，只用来提供测试，不用于分析数据，因为云服务器价格较高。购买这台设备不需要配置太高，只需要能编译软件就行。一般4G以上内存就够。如果2G有些时候可能无法编译成功软件。\n云服务器的好处就是非常简单，有IP地址，账户密码就可以直接登录，最好的一点就是可以快速重置，恢复初始环境。无需反复安装操作系统。\n这里推荐购买这款腾讯云服务器，2核4G的配置。\n​ \n图 4 云服务器价格表\n特别提醒：该价格表基于作者撰写此文的时间点，后面有可能无法找到该页面。不要来问我为什么页面访问不了了，这是腾讯云的活动，有可能活动结束了。\n链接地址：https://curl.qcloud.com/gm6m0QoY\n\n\n\nimage-20240223112511543\n\n\n图 3 微信扫码直接访问链接地址",
+    "crumbs": [
+      "第四章 Linux基本操作",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>4.1 了解服务器？</span>"
+    ]
+  },
+  {
+    "objectID": "source/4-linux/linux2.html",
+    "href": "source/4-linux/linux2.html",
+    "title": "6  4.2 熟悉Linux操作系统",
+    "section": "",
+    "text": "6.0.1 1 Linux系统简介\nLinux属于一种计算机操作系统，操作系统Operating System，简称OS。是管理和控制计算机硬件与软件资源的计算机程序，是直接运行在“裸机”上的最基本的系统软件，任何其他软件都必须在操作系统的支持下才能运行。与windows系统和苹果的macos类似。\nLinux操作系统具有广泛的应用，可以安装到各种系统之上。手机的Android也是一种linux操作系统，此外，各种数据中心的服务器上安装的也大部分是Linux操作系统。\nLinux操作系统诞生于1991 年10 月5 日。1991年8月一位来自芬兰赫尔辛基大学的年轻人Linus Benedict Torvalds，对外发布了一套全新的操作系统。Linux这个名字也是Linus与Unix名字的组合。那么linux到底该如何发音呢。有“里那克斯”，还是“里讷克斯”，或者是“里纽克斯”。Linux的正确读音。音标是 [’li:nэks] 重音在“哩”上\nLinux相比于windows和macos具有很多显著的优势。\n第一，Linux系统是开源免费的，可以安装在多种硬件设备之上；\n第二，稳定并且效率更高；\n第三，支持多任务多用户；\n第四，安全性高；\n​ \n图 1 Linux系统图形化界面\n但是，Linux目前主要应用在服务器设备上，对于消费计算机设备使用起来没有windows系统和macos系统更加人性化，具有较高的学习门槛。而且软件生态较差，目前在个人计算操作机系统市场中只占3%左右。\n\n\n6.0.2 2 Linux发行版本介绍\nLinux从最开始就是开源并且免费的，这也深刻影响了计算机的世界，我们今天所做的生物信息要学习Linux系统与最开始的开源免费有很大的关系。由于开源免费的原因，Linux存在多种发行版本。\n所谓发行版本，要理解Linux广义和狭义的概念。通常说Linux是指其广义概念，即指Linux发行版本。而狭义的Linux仅指Linux系统内核。Linux内核指的是一个由Linus Torvalds负责维护，提供硬件抽象层、磁盘、文件系统控制及多任务功能的系统核心程序。Linux发行套件系统是我们常说的Linux操作系统，也就是由Linux内核与各种常用软件的集合产品。\nLinux发行版本就是Linux内核加上打包好的一些软件，包括桌面程序，办公程序等。类似于不同手机厂家有单独的操作系统一样。全球大约有数百款的Linux系统版本，每个系统版本都有自己的特性和目标人群—有的主打稳定性和安全性，有的主打免费使用，还有的主要定制化等特点。常见的包括Ubuntu，Redhat，CentOS，OpenSUSE，Fedora，Debian等，它们都使用了Linux内核。国内也有麒麟，统信，deepin等发行版本。\n\n\n\nimage-20240223112612172\n\n\n图 2 常见Linux发行版本\n不同的发行版本给用户提供了更多选择，但也造成了很大的问题，由于开发环境不统一，给开发者带来了很多额外的工作，例如常见的Linux两大阵营Redhat和Debian使用不同的软件安装工具，yum和apt。这样很多软件在不同的系统中安装方式完全不同。在安装生物软件过程中经常会遇到环境问题，这是学习生物信息中非常困难的问题。\n\n\n6.0.3 3 Ubuntu还是CentOS？\nUbuntu和CentOS是Linux当中非常著名的两个发行版本。很多生物信息软件都会分别提供这两个系统版本。\nUbuntu基于Debian发行版和GNOME桌面环境，是一个以桌面应用为主的Linux操作系统。CentOS的全称Community Enterprise Operating System，中文意思是：社区企业操作系统是Linux发行版之一，CentOS 是一个基于Red Hat Linux 提供的可自由使用源代码的企业级Linux发行版本。\n\n图 3 一些软件会提供多个发行版本可供选择\n由于我们主要使用Linux系统的命令行模式，因此，不同系统版本之间差别并不大。而且由于Linux系统方便进行源代码编译，所以选择这两个版本其一即可。\n\n\n\nimage-20240223112637587\n\n\n图 4 ubuntu桌面操作系统\n根据笔者近年来的使用，由于很多个人开发者使用的环境大多为ubuntu系统，因此，近年来更多的生物信息软件针对ubuntu系统更友好一些。比如，ubuntu系统默认的系统软件版本更新，例如gcc，glibc，zlib等。这样就导致这些软件安装到ubuntu系统更容易一些。不过如果使用bioconda安装，二者之间的差别几乎可以忽略不计。\n\n\n6.0.4 4 做生物信息为什么要学习Linux？\n学习生物信息，为什么要学习Linux，而且是学习Linux的命令行模式，而非图形化的模式，主要有以下几个原因：\n\n使用的生物软件只有Linux命令行版本；\nLinux系统是开源免费的；\n高性能计算都采用Linux系统；\nLinux系统本身具有很多优点，例如多用户多任务；\n命令行进行自动化和批量化操作。\n\n\n\n6.0.5 5 为何Linux比较难学？\n主要有以下几点原因。\n\nLinux主要采用命令行模式，虽然现在很多Linux操作系统都具有图形界面，但是我们使用的是命令行模式。\n目录结构，这个也是新手最容易出错的地方，在命令行操作的时候，最常见的错误就是目录结构的问题，常常出现“file can not found”这样的错误，在处理生物数据的时候，找不到数据所在目录。\n环境配置，Linux发行版本不统一，而且由于免费开源这个特性，就会造成开发环境不统一，这个是安装软件中最常见的问题。\n权限控制，Linux系统是一个多用户多任务的操作系统，也就是说多个用户可以同时登陆，同时工作，那么属于一个公共空间，多用户就会需要严格的权限管理，这也是一个初学者不容易理解的地方；\n\n我们知道了学习Linux有哪些困难所在，接下来的课程中，我们会一个一个详细介绍这些问题。每个问题解决了，学习Linux也就不困难了。\n\n\n\nimg\n\n\n图5 学习生物信息，从Linux开始",
+    "crumbs": [
+      "第四章 Linux基本操作",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>4.2 熟悉Linux操作系统</span>"
+    ]
+  },
+  {
+    "objectID": "source/4-linux/linux3.html",
+    "href": "source/4-linux/linux3.html",
+    "title": "12  4.3 登录服务器传输文件",
+    "section": "",
+    "text": "12.1 1 选择合适的工具\n使用服务器需要使用ssh登录以及sftp传输文件，支持这两项功能的工具有很多。有收费也有免费，这里我们给大家列出一些，根据个人使用习惯来进行选择。这里面我们推荐windows用户选择xshell+xftp或者termius，mac用户选择termius。\nwindows系统：\nxshell+xftp：https://www.xshell.com/zh/free-for-home-school/\nputty：https://www.chiark.greenend.org.uk/~sgtatham/putty/\nSSH Secure Shell Client：https://www.ssh.com/ssh/\nsecureCRT：https://www.vandyke.com/products/securecrt/\ntermius：https://www.termius.com\nmobaxterm：https://mobaxterm.mobatek.net/download.html\nmacos系统：\ntermius：https://www.termius.com\nsecureCRT：https://www.vandyke.com/products/securecrt/\nRoyal：https://www.royalapps.com/ts/mac/features\ntabby：https://tabby.sh/",
+    "crumbs": [
+      "第四章 Linux基本操作",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>4.3 登录服务器传输文件</span>"
+    ]
+  },
+  {
+    "objectID": "source/4-linux/linux3.html#如何登录服务器",
+    "href": "source/4-linux/linux3.html#如何登录服务器",
+    "title": "12  4.3 登录服务器传输文件",
+    "section": "12.2 2 如何登录服务器",
+    "text": "12.2 2 如何登录服务器\n为了保持windows系统与macos系统一致性，这里推荐使用termius工具。Termius是一款支持SSH与Telnet协议的连接工具，支持windows系统，macos，Linux，iOS以及Android等几乎支持主流平台。且内置sftp，使用一个工具即可同时登录服务器和传输文件。\n​ \n图 1 termius价格体系\n这里面需要注意，目前macos系统从AppStore下载的termius无法读取本地文件，因此强烈推荐从官网下载进行安装。根据个人系统进行下载。\nwindows版本下载地址：https://www.termius.com/windows\nmacos版本下载地址：https://termius.com/mac-os\n目前termius版本需要注册账号，可以使用个人邮箱进行注册。\n\n\n\nimage-20240223113017526\n\n\n图 2 打开termius，新建一个host\n\n\n\nimage-20240223113025602\n\n\n图 3 填写标签，ip地址，端口号，用户名和密码\n\n\n\nimage-20240223113033383\n\n\n图4 双击新建host，选择图中蓝色部分\n\n\n\nimage-20240223113041152\n\n\n图 5出现图中界面，完成登录",
+    "crumbs": [
+      "第四章 Linux基本操作",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>4.3 登录服务器传输文件</span>"
+    ]
+  },
+  {
+    "objectID": "source/4-linux/linux3.html#命令行登录",
+    "href": "source/4-linux/linux3.html#命令行登录",
+    "title": "12  4.3 登录服务器传输文件",
+    "section": "12.3 3 命令行登录",
+    "text": "12.3 3 命令行登录\n当使用Linux命令行模式，widnows DOS， macos默认终端等，可以使用命令方式登录服务器。打开终端（Terminal），使用SSH命令进行登录，使用scp命令进行文件传输。\nssh wangtong@vip.tongyuangene.com \n\n输入密码： \n注意事项1：Linux 输入密码是没有任何显示的，输入错误，可以连续按退格键。\n\n\n\nimage-20240223113122928\n\n\n图6windows系统使用ssh远程登录",
+    "crumbs": [
+      "第四章 Linux基本操作",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>4.3 登录服务器传输文件</span>"
+    ]
+  },
+  {
+    "objectID": "source/4-linux/linux3.html#移动端登录",
+    "href": "source/4-linux/linux3.html#移动端登录",
+    "title": "12  4.3 登录服务器传输文件",
+    "section": "12.4 4 移动端登录",
+    "text": "12.4 4 移动端登录\niOS或者Andriod可以通过应用商店下载安装Termius应用。也可以从官网下载，网址:http://www.termius.com/\n\n\n\nimage-20240223113150720\n\n\n图 7 手机端登录服务器",
+    "crumbs": [
+      "第四章 Linux基本操作",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>4.3 登录服务器传输文件</span>"
+    ]
+  },
+  {
+    "objectID": "source/4-linux/linux3.html#为何连不上服务器",
+    "href": "source/4-linux/linux3.html#为何连不上服务器",
+    "title": "12  4.3 登录服务器传输文件",
+    "section": "12.5 5 为何连不上服务器？",
+    "text": "12.5 5 为何连不上服务器？\n1、账户密码问题\n注意账户拼写，密码注意大小写，中英文字符，还有端口号，默认是10088。\n2、网路问题\n一些单位外网无法访问内网服务器，只能在单位内部访问，访问内网需要专门VPN。\n3、端口号\nSSH默认端口号为22，一些单位将22端口号封锁。\n4、计算资源紧张\nopenssh也是一个网络应用，当客户端发起访问请求，需要服务器端进行处理。而当服务器计算资源紧张，例如CPU被占满，那么服务器就不能立即处理openssh的任务，需要等待。\n5、网络拥堵\n访问服务器网络很重要，很多情况下都是因为网络问题造成无法访问。",
+    "crumbs": [
+      "第四章 Linux基本操作",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>4.3 登录服务器传输文件</span>"
+    ]
+  },
+  {
+    "objectID": "source/4-linux/linux3.html#通过ping命令测试网络",
+    "href": "source/4-linux/linux3.html#通过ping命令测试网络",
+    "title": "12  4.3 登录服务器传输文件",
+    "section": "12.6 6 通过ping命令测试网络",
+    "text": "12.6 6 通过ping命令测试网络\n如果想测试本地网络与服务器端是否连通，可以使用系统自带的ping命令进行测试。\nWindows PowerShell\n\n版权所有 (C) Microsoft Corporation。保留所有权利。\n尝试新的跨平台 PowerShell https://aka.ms/pscore6\nPS C:\\Users\\genom&gt; ping 2t.tongyuangene.com\n\n正在 Ping 2t.tongyuangene.com [42.202.146.184] 具有 32 字节的数据:\n来自 42.202.146.184 的回复: 字节=32 时间=580ms TTL=54\n来自 42.202.146.184 的回复: 字节=32 时间=628ms TTL=54\n来自 42.202.146.184 的回复: 字节=32 时间=656ms TTL=54\n来自 42.202.146.184 的回复: 字节=32 时间=629ms TTL=54\n\n45.232.123.199 的 Ping 统计信息:\n\n  数据包: 已发送 = 4，已接收 = 4，丢失 = 0 (0% 丢失)，\n\n往返行程的估计时间(以毫秒为单位):\n\n  最短 = 580ms，最长 = 656ms，平均 = 623ms\n\nPS C:\\Users\\genom&gt;",
+    "crumbs": [
+      "第四章 Linux基本操作",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>4.3 登录服务器传输文件</span>"
+    ]
+  },
+  {
+    "objectID": "source/2-tools/a1.html",
+    "href": "source/2-tools/a1.html",
+    "title": "2.1 Termius使用",
+    "section": "",
+    "text": "termius简介\nTermius是一款支持SSH与Telnet协议的连接工具，支持windows系统，macos，Linux，iOS以及Android等几乎支持主流平台。且内置sftp，使用一个工具即可同时登录服务器和传输文件。之所以选择termius，主要是因为termius有以下优点：",
+    "crumbs": [
+      "第二章 生物信息常用工具",
+      "2.1 Termius使用"
+    ]
+  },
+  {
+    "objectID": "source/2-tools/a1.html#termius简介",
+    "href": "source/2-tools/a1.html#termius简介",
+    "title": "2.1 Termius使用",
+    "section": "",
+    "text": "提供免费版本\n跨平台，支持 windows，macos，linux，iOS 以及Android；\n内置sftp，一个工具完成命令行仿真和文件传输；\n小巧美观，功能强大；\n免费的功能已足够强大，学生用户可以申请全功能版本。",
+    "crumbs": [
+      "第二章 生物信息常用工具",
+      "2.1 Termius使用"
+    ]
+  },
+  {
+    "objectID": "source/2-tools/a1.html#下载安装",
+    "href": "source/2-tools/a1.html#下载安装",
+    "title": "2.1 Termius使用",
+    "section": "下载安装",
+    "text": "下载安装\n软件下载地址\nwindows版本下载地址: https://www.termius.com/windows\nmacos版本下载地址: https://termius.com/mac-os\n目前termius版本需要注册账号，可以使用个人邮箱进行注册。\n这里面需要注意，目前macos系统从AppStore下载的termius无法读取本地文件，因此强烈推荐从官网下载进行安装。根据个人系统进行下载。目前termius有四种套餐可供选择，一般用户选择免费版本即可，第一次现在安装提供15天Pro版本试用，到期后直接选择降级到Starter版本即可。\n注意:软件厂商会对软件策略进行调整，当你看到这篇内容的时候有可能发生变化了，不要刻舟求剑。\n\n\n\nimage-20240218112023090",
+    "crumbs": [
+      "第二章 生物信息常用工具",
+      "2.1 Termius使用"
+    ]
+  },
+  {
+    "objectID": "source/2-tools/a1.html#termius使用",
+    "href": "source/2-tools/a1.html#termius使用",
+    "title": "2.1 Termius使用",
+    "section": "termius使用",
+    "text": "termius使用\n\n打开termius，新建一个host\n\n\n\n\n图片\n\n\n\n填写标签，ip地址，端口号，用户名和密码\n登录信息需要自己有服务器账号，不要照抄图中案例内容。\n\n\n\n\n图片\n\n\n3、双击新建host，选择图中蓝色部分\n\n\n\n图片\n\n\n4、出现图中界面，完成登录\n\n\n\n图片",
+    "crumbs": [
+      "第二章 生物信息常用工具",
+      "2.1 Termius使用"
+    ]
+  },
+  {
+    "objectID": "source/2-tools/a1.html#termius设置",
+    "href": "source/2-tools/a1.html#termius设置",
+    "title": "2.1 Termius使用",
+    "section": "termius设置",
+    "text": "termius设置\ntermius的设置主要包括字体，字号，主题，鼠标右键粘贴等内容。\n\ntermius设置右键粘贴功能以及关闭响铃\n\n\n\n\n图片\n\n\n\n设置字体字号\n\n\n\n\n图片\n\n\n\n设置不间断会话\n\n\n\n\n图片\n\n\n\n修改默认ctrl+L快捷键\n\n\n\n\n图片",
+    "crumbs": [
+      "第二章 生物信息常用工具",
+      "2.1 Termius使用"
+    ]
+  },
+  {
+    "objectID": "source/2-tools/a1.html#termius文件传输",
+    "href": "source/2-tools/a1.html#termius文件传输",
+    "title": "2.1 Termius使用",
+    "section": "termius文件传输",
+    "text": "termius文件传输\n\n\n\n图片",
+    "crumbs": [
+      "第二章 生物信息常用工具",
+      "2.1 Termius使用"
+    ]
+  },
+  {
+    "objectID": "source/8-python/py1.html",
+    "href": "source/8-python/py1.html",
+    "title": "8.1 python语言简介",
+    "section": "",
+    "text": "python语言简介\nPython由荷兰国家数学与计算机科学研究中心的吉多·范罗苏姆于1990年代初设计，作为一门叫做ABC语言的替代品。之所以叫做Python，是因为这个名字是来自于20世纪70年代MontyPython六人喜剧团体创作的英国电视喜剧片《蒙提·派森的飞行马戏团》 (MontyPython and the Flying Circus)。\npython的英文释义是蟒蛇，因此，python的吉祥物是蟒蛇，类似于perl语言的骆驼。所以一般python数据的封面都是一条蟒蛇。\n图1 python作者Guido Van Rossum\nPython提供了高效的高级数据结构，还能简单有效地面向对象编程。Python语法和动态类型，以及解释型语言的本质，使它成为多数平台上写脚本和快速开发应用的编程语言，随着版本的不断更新和语言新功能的添加，逐渐被用于独立的、大型项目的开发。\nPython在各个编程语言中比较适合新手学习，Python解释器易于扩展，可以使用C、C++或其他可以通过C调用的语言扩展新的功能和数据类型。 Python也可用于可定制化软件中的扩展程序语言。Python丰富的标准库，提供了适用于各个主要系统平台的源码或机器码。（百度百科）\n图 2 python官网\npython官网：https://www.python.org",
+    "crumbs": [
+      "第八章 python",
+      "8.1 python语言简介"
+    ]
+  },
+  {
+    "objectID": "source/8-python/py1.html#python语言简介",
+    "href": "source/8-python/py1.html#python语言简介",
+    "title": "8.1 python语言简介",
+    "section": "",
+    "text": "img\n\n\n\n\n\n\n\n\nimg",
+    "crumbs": [
+      "第八章 python",
+      "8.1 python语言简介"
+    ]
+  },
+  {
+    "objectID": "source/8-python/py1.html#python优点",
+    "href": "source/8-python/py1.html#python优点",
+    "title": "8.1 python语言简介",
+    "section": "python优点",
+    "text": "python优点\n\n文本处理\n开发流程\n爬虫\nWeb 后端开发\n自动化运维、\n数据科学\n机器学习\n深度学习\n扩展模块多",
+    "crumbs": [
+      "第八章 python",
+      "8.1 python语言简介"
+    ]
+  },
+  {
+    "objectID": "source/8-python/py1.html#python缺点",
+    "href": "source/8-python/py1.html#python缺点",
+    "title": "8.1 python语言简介",
+    "section": "python缺点",
+    "text": "python缺点\n\n运行效率低\n版本兼容性差\n扩展模块多，学习成本大\n不同包之间语法结构不一致",
+    "crumbs": [
+      "第八章 python",
+      "8.1 python语言简介"
+    ]
+  },
+  {
+    "objectID": "source/8-python/py1.html#python生物信息编程应用",
+    "href": "source/8-python/py1.html#python生物信息编程应用",
+    "title": "8.1 python语言简介",
+    "section": "python生物信息编程应用",
+    "text": "python生物信息编程应用\npython生物信息编程主要用于以下方向：\n\n处理生物数据，开发自己的生物数据分析方法；\n批量生成脚本；\n开发自动化流程；\n处理其他生物软件结果文件；\n安装配置使用调试python生物软件；\n读懂代码；\npython数据分析机器学习",
+    "crumbs": [
+      "第八章 python",
+      "8.1 python语言简介"
+    ]
+  },
+  {
+    "objectID": "source/8-python/py1.html#python两种运行方式",
+    "href": "source/8-python/py1.html#python两种运行方式",
+    "title": "8.1 python语言简介",
+    "section": "python两种运行方式",
+    "text": "python两种运行方式\n\n脚本式\n将要运行的代码写入文件中，一般是文本文件，例如新建一个py01.py文件，然后将要运行的代码写入文件中，保存文件，然后在命令行通过python解释器来运行。\nprint('hello, world!')\n在系统终端中运行\n\n$ python py01.py\n\n$ hello,world!\n在文件中可以添加一种成为“shebang”或者“hasbang”的开头，用于指定默认情况下运行给定脚本的解释器。添加了“shebang”，则无需指定解释器\n\n#!/usr/bin/python\n\nprint('hello, world!')\n直接运行\n\n$ ./py01.py\n\n$ hello,world!\n脚本语言无需编译即可直接运行，如果是编译型语言，例如c语言，则需要首先编译程序，然后才能运行。\n脚本式可以一直记录代码，不断修改，调试，比较适合开发应用程序，进行自动化和批量化运行。对于数据分析交互式更加适合。\n\n\n交互式\n交互式类似于Linux Shell交互环境，通过与解释器进行交互来运行，输入一条命令，通过运算立刻返回结果。“交互式”可以很方便进行数据探索，更加适合进行数据分析。python数据分析可以通过ipython或者jupyter进行交互式数据分析。\n\n\n\nimg\n\n\n图 3 ipython交互式运行\n脚本式与交互式二者并不矛盾，可以首先使用交互式进行数据探索，当运行完成之后可以将整个数据分析过程整理为一个脚本文件。",
+    "crumbs": [
+      "第八章 python",
+      "8.1 python语言简介"
+    ]
+  },
+  {
+    "objectID": "source/8-python/py1.html#python开发环境",
+    "href": "source/8-python/py1.html#python开发环境",
+    "title": "8.1 python语言简介",
+    "section": "python开发环境",
+    "text": "python开发环境\n\npython官方IDLE：https://www.python.org/\nipython：https://ipython.org/\nAnaconda：https://www.anaconda.com/\nJupyter：https://jupyter.org/\nPyCharm：https://www.jetbrains.com/pycharm/\nspyder：https://www.spyder-ide.org/\nRstudio：https://posit.co/\nvscode：https://code.visualstudio.com/docs/languages/python\n终端模拟器：Linux Shell，windows CMD，macos终端",
+    "crumbs": [
+      "第八章 python",
+      "8.1 python语言简介"
+    ]
+  },
+  {
+    "objectID": "source/8-python/py2.html",
+    "href": "source/8-python/py2.html",
+    "title": "8.2 python分析环境搭建",
+    "section": "",
+    "text": "Anaconda简介\nAnaconda是一家数据科学公司，主要业务包括为企业提供基于python的商业数据科学分析支持。Anaconda是该公司的商标，也是产品名称。Anaconda既有免费的产品也有付费产品和服务。\nhttps://www.anaconda.com/about-us\nAnaconda也是一个免费的开源的数据科学分析平台。它将数据科学中的很多工具集中在一起，现在除了支持python之外，同事也支持R语言，Julia，Octave等语言。在生物信息分析中常用的bioconda，也是基于Anaconda来构建的。\n图 1 Anaconda内置很多数据分析模块",
+    "crumbs": [
+      "第八章 python",
+      "8.2 python分析环境搭建"
+    ]
+  },
+  {
+    "objectID": "source/8-python/py2.html#anaconda简介",
+    "href": "source/8-python/py2.html#anaconda简介",
+    "title": "8.2 python分析环境搭建",
+    "section": "",
+    "text": "img",
+    "crumbs": [
+      "第八章 python",
+      "8.2 python分析环境搭建"
+    ]
+  },
+  {
+    "objectID": "source/8-python/py2.html#为什么选择anaconda",
+    "href": "source/8-python/py2.html#为什么选择anaconda",
+    "title": "8.2 python分析环境搭建",
+    "section": "为什么选择Anaconda？",
+    "text": "为什么选择Anaconda？\n使用Anaconda可以非常方便的配置好python数据科学环境。Anaconda支持windows，macos以及Linux。自带超过1000多个python数据分析的包，一次安装即可使用。最重要的是，这些包之间一般不会有兼容性问题。没有的python包也可以使用conda命令进行管理。同时也支持虚拟环境，可以非常方便的解决python版本以及兼容性问题。\n此外，Anaconda3自带了python，ipython，spyder，juypter等软件，使用起来非常方便。\n\nAnaconda是Python的一个完整发行版本，安装自带了1000多个开源包，如果不需要安装全部python包，也可以选择精简版的Miniconda。Miniconda仅仅包含python以及运行conda所需要的模块。",
+    "crumbs": [
+      "第八章 python",
+      "8.2 python分析环境搭建"
+    ]
+  },
+  {
+    "objectID": "source/8-python/py2.html#安装anaconda",
+    "href": "source/8-python/py2.html#安装anaconda",
+    "title": "8.2 python分析环境搭建",
+    "section": "安装Anaconda",
+    "text": "安装Anaconda\n1.选择适合自己系统版本\nhttps://docs.anaconda.com/free/anaconda/\nhttps://www.anaconda.com/download#downloads\n\n\n\n图形用户界面, 文本 描述已自动生成\n\n\n图 2 下载Anaconda\nNote：windows 7 系统只支持到2019.10版本\nwindows8系统支持到2022.10版本\n&lt;https://repo.anaconda.com/archive/&gt;\n2.双击安装包进行安装\n安装过程中默认是不添加到环境变量中，软件默认也不推荐加入，但这里面还是强烈推荐加入到环境变量中，这样在终端中就可以直接使用python，ipython，conda等命令。\n\n\n\n图形用户界面, 文本, 应用程序, 电子邮件 描述已自动生成\n\n\n图 3 加入环境变量\n3. 通过开始菜单启动Anaconda\n\n\n\nimg\n\n\n图 4 Anaconda启动界面\n4. 通过Anaconda Navigator启动\n\n\n\n日历 描述已自动生成\n\n\n图 5 通过Anaconda Navigator启动\n5. 通过终端直接启动\n直接在cmd终端中输入python.exe，ipython.exe，conda等命令直接使用。\n\n\n\nimg\n\n\n图 6 通过终端使用python",
+    "crumbs": [
+      "第八章 python",
+      "8.2 python分析环境搭建"
+    ]
+  },
+  {
+    "objectID": "source/8-python/py4.html",
+    "href": "source/8-python/py4.html",
+    "title": "20  8.4 pycharm开发环境",
+    "section": "",
+    "text": "20.1 pycharm简介\nPyCharm是一款深受Python程序员欢迎的IDE，因为它是专门为使用Python编程而开发的。完整版需要付费订阅，但很多开发人员觉得免费的社区版（PyCharm Community Edition)也很有用。PyCharm是一种常用的Python IDE，带有一整套可以帮助用户在使用Python语言开发时提高其效率的工具，比如调试、语法高亮、Project管理、代码跳转、智能提示、自动完成、单元测试、版本控制。\npycharm官网：https://www.jetbrains.com.cn/pycharm/\n图1 pycharm官网",
+    "crumbs": [
+      "第八章 python",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>8.4 pycharm开发环境</span>"
+    ]
+  },
+  {
+    "objectID": "source/8-python/py4.html#pycharm简介",
+    "href": "source/8-python/py4.html#pycharm简介",
+    "title": "20  8.4 pycharm开发环境",
+    "section": "",
+    "text": "image-20240218151216464",
+    "crumbs": [
+      "第八章 python",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>8.4 pycharm开发环境</span>"
+    ]
+  },
+  {
+    "objectID": "source/8-python/py4.html#下载安装pycharm",
+    "href": "source/8-python/py4.html#下载安装pycharm",
+    "title": "20  8.4 pycharm开发环境",
+    "section": "20.2 下载安装pycharm",
+    "text": "20.2 下载安装pycharm\n下载地址：https://www.jetbrains.com.cn/pycharm/download/?section=windows\n\n\n\n图形用户界面, 文本 描述已自动生成\n\n\n图 2 pycharm",
+    "crumbs": [
+      "第八章 python",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>8.4 pycharm开发环境</span>"
+    ]
+  },
+  {
+    "objectID": "source/8-python/py4.html#配置python解释器",
+    "href": "source/8-python/py4.html#配置python解释器",
+    "title": "20  8.4 pycharm开发环境",
+    "section": "20.3 配置python解释器",
+    "text": "20.3 配置python解释器\n\n\n\n图形用户界面 描述已自动生成\n\n\n图 3 添加python解释器",
+    "crumbs": [
+      "第八章 python",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>8.4 pycharm开发环境</span>"
+    ]
+  },
+  {
+    "objectID": "source/8-python/py4.html#安装插件",
+    "href": "source/8-python/py4.html#安装插件",
+    "title": "20  8.4 pycharm开发环境",
+    "section": "20.4 安装插件",
+    "text": "20.4 安装插件\n与vscode类似，pycharm也支持安装插件。\n\n\n\n图形用户界面, 文本, 应用程序 描述已自动生成\n\n\n图4 安装插件\n\n\n\n图形用户界面, 文本, 应用程序 描述已自动生成\n\n\n图5 安装中文插件\n\n\n\nimg\n\n\n图 6 Key Promoter X插件\npycharm插件Key Promoter X，可以提示快捷键。",
+    "crumbs": [
+      "第八章 python",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>8.4 pycharm开发环境</span>"
+    ]
+  },
+  {
+    "objectID": "source/8-python/py4.html#在pycharm中运行python",
+    "href": "source/8-python/py4.html#在pycharm中运行python",
+    "title": "20  8.4 pycharm开发环境",
+    "section": "20.5 在pycharm中运行python",
+    "text": "20.5 在pycharm中运行python\n1. 新建项目\n\n\n\n图形用户界面, 文本, 应用程序, 电子邮件 描述已自动生成\n\n\n图 6 新建项目\n2. 编辑代码\nprint('hello,world!')\n3. 运行代码\n\n\n\n图形用户界面, 应用程序 描述已自动生成\n\n\n图 7pycharm运行python",
+    "crumbs": [
+      "第八章 python",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>8.4 pycharm开发环境</span>"
+    ]
+  },
+  {
+    "objectID": "source/8-python/py4.html#pycharm常用快捷键",
+    "href": "source/8-python/py4.html#pycharm常用快捷键",
+    "title": "20  8.4 pycharm开发环境",
+    "section": "20.6 pycharm常用快捷键",
+    "text": "20.6 pycharm常用快捷键\n表 1 python常用快捷键\n\n\n\n快捷键\n作用\n\n\n\n\nAlt+Shift+F10\n选择程序文件并运行代码\n\n\nAlt+Shift+F9\n选择程序文件并调试代码\n\n\nShift+F10\n运行代码\n\n\nShift+F9\n调试代码\n\n\nCtrl+Shift+F10\n运行当前编辑区的程序文件\n\n\nShift + Shift\n搜索\n\n\nCtrl + Alt + L\n格式化代码\n\n\n选中代码tab\n向右缩进\n\n\n选中代码shfit + tab\n向左缩进\n\n\n选中代码 “““\n多行注释",
+    "crumbs": [
+      "第八章 python",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>8.4 pycharm开发环境</span>"
+    ]
+  },
+  {
+    "objectID": "source/8-python/py3.html",
+    "href": "source/8-python/py3.html",
+    "title": "9  8.3 使用vscode运行python",
+    "section": "",
+    "text": "9.1 vscode简介\nAnaconda安装完成之后即可直接使用python进行数据分析了。不过Anaconda Navigator启动速度比较慢。这里强烈推荐使用vscode运行的方法。\nvscode是微软公司出品的一款非常流行的文编编辑器，通过vscode强大的插件扩展功能。vscode几乎可以编辑全部编程语言。vscode+python也是当前很多人运行python的主流方法。相比与pycharm等著名python 集成开发环境，vscode有诸多优势。\n其实vscode与pycharm都非常强大，根据个人需求进行选择。\n下面介绍一下如何在vscode中使用python。",
+    "crumbs": [
+      "第八章 python",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>8.3 使用vscode运行python</span>"
+    ]
+  },
+  {
+    "objectID": "source/8-python/py3.html#vscode简介",
+    "href": "source/8-python/py3.html#vscode简介",
+    "title": "9  8.3 使用vscode运行python",
+    "section": "",
+    "text": "vscode是免费的，pycharm社区版免费，专业版需要付费订阅；\n支持所有主流操作系统，不同系统之间使用体验一致；\n启动速度快，占用资源少；\n初学者使用友好，功能强大，很多程序员主编辑器；\nvscode作为文本编辑器，可以查看多种类型文本文件；\nvscode支持远程开发，本地编写代码，远程服务器运行，pycharm收费版才支持该功能；\n在vscode也可以直接打开jupyter文件；\n与github都属于微软产品，集成到github codesapce中；\n可以在同一款编辑器运行python，使用jupyter数据分析以及使用Quarto编辑文档。",
+    "crumbs": [
+      "第八章 python",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>8.3 使用vscode运行python</span>"
+    ]
+  },
+  {
+    "objectID": "source/8-python/py3.html#下载vscode",
+    "href": "source/8-python/py3.html#下载vscode",
+    "title": "9  8.3 使用vscode运行python",
+    "section": "9.2 下载vscode",
+    "text": "9.2 下载vscode\n根据个人系统选择对应的版本。\nhttps://code.visualstudio.com/Download\n\n\n\n日程表 描述已自动生成\n\n\n图 1 下载vscode\n在安装vscode过程中，请将下面菜单全部勾选。\n\n\n\n图形用户界面, 文本, 应用程序 描述已自动生成\n\n\n图2 安装vscode",
+    "crumbs": [
+      "第八章 python",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>8.3 使用vscode运行python</span>"
+    ]
+  },
+  {
+    "objectID": "source/8-python/py3.html#安装插件",
+    "href": "source/8-python/py3.html#安装插件",
+    "title": "9  8.3 使用vscode运行python",
+    "section": "9.3 安装插件",
+    "text": "9.3 安装插件\n安装完vscode之后还不能直接运行python，需要安装一些插件，vscode可以通过安装插件实现各种各样的功能。\n打开vscode，选择左侧菜单，或者直接按快捷键“ctrl+shfit+x”，在插件应用商店中搜索插件，如果有微软官方提供的版本，尽量选择官方版本。\n下面列出一些常用的插件。\n\nChinese：间体中文菜单\nPython：连接vscode与python解释器\nJupyter：运行jupyter\nRemote Development：远程开发套件，通过ssh远程连接服务器\nMaterial Icon Theme：文件图标\nPython Indent：python：控制python缩进\nSnippets：自动补全代码\n\n\n\n\n图片\n\n\n图 3 vscode安装python插件",
+    "crumbs": [
+      "第八章 python",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>8.3 使用vscode运行python</span>"
+    ]
+  },
+  {
+    "objectID": "source/8-python/py3.html#vscode中运行python",
+    "href": "source/8-python/py3.html#vscode中运行python",
+    "title": "9  8.3 使用vscode运行python",
+    "section": "9.4 vscode中运行python",
+    "text": "9.4 vscode中运行python\n启动vscode，新建一个python文件或者jupyter文件。编辑代码，按Ctrl+F5快捷键运行python。\nprint(‘Hello Python World!’)\n\n\n\n图片\n\n\n图 4 vscode运行python\n新建一个jupyter文件，选择Anaconda解释器，可以直接打开jupyter文件，支持绘图显示。\n\n\n\n图片\n\n\n图 5 在vscode中运行jupyter\nvscode本身可以创建多个窗口，一边显示代码，一边进行操作。macos系统默认不方便调整窗口分屏，可以直接在vscode中进行操作。这里我们在vscode中直接新建终端，然后右侧显示即可。这样也非常方便。\n\n\n\n图形用户界面, 应用程序 描述已自动生成\n\n\n图 6 使用vscode分屏运行python",
+    "crumbs": [
+      "第八章 python",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>8.3 使用vscode运行python</span>"
+    ]
+  },
+  {
+    "objectID": "source/8-python/py3.html#vscode设置",
+    "href": "source/8-python/py3.html#vscode设置",
+    "title": "9  8.3 使用vscode运行python",
+    "section": "9.5 vscode设置",
+    "text": "9.5 vscode设置\nvscode可以进行进行多种个性化设置，之前只能通过更改json文件，现在也支持图形化设置。\n\n\n\n图形用户界面, 应用程序 描述已自动生成\n\n\n图 7 设置为暗色主题\n点击设置，选择python，可以重新设置python解释器，这里可以选择自己系统安装的Anaconda版本python。如果安装anaconda默认将python加入系统环境变量，这里可以不设置。\n\n\n\n图片\n\n\n图8 修改默认python解释器\n选择不同版本解释器，这样很多python数据分析的包都可以使用了。\n\n\n\n图形用户界面, 应用程序 描述已自动生成\n\n\n图 9 通过右下角选择python版本",
+    "crumbs": [
+      "第八章 python",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>8.3 使用vscode运行python</span>"
+    ]
+  },
+  {
+    "objectID": "source/8-python/py3.html#vscode快捷键",
+    "href": "source/8-python/py3.html#vscode快捷键",
+    "title": "9  8.3 使用vscode运行python",
+    "section": "9.6 vscode快捷键",
+    "text": "9.6 vscode快捷键\n使用vscode一定要使用快捷键，这样可以极大提高编写代码的效率。windows中采用Ctrl，如果是mac系统，替换为Command。一些快捷键与微软其他程序相似。\n\n\n\n快捷键\n作用\n\n\n\n\nCtrl + K，Ctrl + S\n显示快捷键\n\n\nCtrl + K，Ctrl + T\n更改主题\n\n\nCtrl +Win +Alt+ N\n新建文件\n\n\nCtrl + `\n打开终端\n\n\nCtrl + F5\n运行代码\n\n\nCtrl + [\n缩进和取消缩进代码块\n\n\nCtrl + /\n注释掉代码块\n\n\nAlt + 上下方向键\n移动代码块\n\n\nCtrl + B\n隐藏资源管理器",
+    "crumbs": [
+      "第八章 python",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>8.3 使用vscode运行python</span>"
+    ]
+  },
+  {
+    "objectID": "source/2-tools/a2.html",
+    "href": "source/2-tools/a2.html",
+    "title": "2.2 xshell使用教程",
+    "section": "",
+    "text": "免费申请下载\nxshell + xftp套件是收费软件，不过提供了家庭和校园版可以免费使用。只需要到下面网站提交邮箱即可。\n找不到网站，可以使用bing搜索关键字“xshell free for home school”即可找到。\n2 打开网站\nhttps://www.xshell.com/zh/free-for-home-school/\n3. 填写邮箱\n4.获取下载地址",
+    "crumbs": [
+      "第二章 生物信息常用工具",
+      "2.2 xshell使用教程"
+    ]
+  },
+  {
+    "objectID": "source/2-tools/a2.html#免费申请下载",
+    "href": "source/2-tools/a2.html#免费申请下载",
+    "title": "2.2 xshell使用教程",
+    "section": "",
+    "text": "bing搜索\n\n\n\n\n图片\n\n\n\n\n\n\n\n图片\n\n\n\n\n\n\n图片\n\n\n\n\n\n\n图片",
+    "crumbs": [
+      "第二章 生物信息常用工具",
+      "2.2 xshell使用教程"
+    ]
+  },
+  {
+    "objectID": "source/2-tools/a2.html#安装使用",
+    "href": "source/2-tools/a2.html#安装使用",
+    "title": "2.2 xshell使用教程",
+    "section": "安装使用",
+    "text": "安装使用\n1. 软件安装\n强烈建议安装到默认目录。现在免费版本退出后，会有一个提醒。如果嫌比较麻烦，可以购买付费版本使用。xftp情况与之类似。\n\n\n\n图片\n\n\n2. 登录账号\n需要有一个登录账号，包括IP地址，端口号，用户名和密码。\n第一次打开软件，会自动弹出创建会话窗口。\n\n\n\n图片\n\n\n3. 选择新建会话\n在名称中设置一个别名，便于区分不同主机，下面主机部分填写正确IP地址。\n\n\n\n图片\n\n\n4. 输入账户密码\n\n\n\n图片\n\n\n5. 设置不间断连接\n由于服务器为了安全，一段时间客户端不进行操作就会主动断开，可以在这里进行设置。\n\n\n\n图片\n\n\n6. 关闭响铃\n响铃有时候比较讨厌，最好选择关闭\n\n\n\n图片\n\n\n7. 关闭x11\n免费版本不支持图形显示，可以在隧道里关闭转到x11，否则会提示购买xmanager。或者也可以自己配置xming，用来使用xdisplay。\n\n\n\n图片\n\n\n8. 完成登录\n这样就完成了登录设置，选择接受并保存密码，以后就可以直接登录了。第一次登录会提示保存密钥，选择“接受并保存”即可。\n\n\n\n图片\n\n\n当出现如下界面，表示登录成功了\n\n\n\n图片",
+    "crumbs": [
+      "第二章 生物信息常用工具",
+      "2.2 xshell使用教程"
+    ]
+  },
+  {
+    "objectID": "source/2-tools/a2.html#xshell设置",
+    "href": "source/2-tools/a2.html#xshell设置",
+    "title": "2.2 xshell使用教程",
+    "section": "xshell设置",
+    "text": "xshell设置\n1 调整视图\n默认界面并不是最佳视图，可以进行调整。\n\n\n\n图片\n\n\n2 主题设置\n还可以进行主题设置，例如调整前景色与背景色等。\n\n\n\n图片\n\n\n3. 自动复制粘贴设置\n在命令行模式下，需要经常使用鼠标进行复制粘贴长路径，一般习惯是鼠标左键进行选中，右键进行粘贴，xshell默认鼠标中间进行粘贴，如果不习惯这样的行为，可以进行设置。\n\n\n\n图片\n\n\n4. 设置透明图\nxshell还支持透明图设置，可以设置透明度大一些，这样可以边用腾讯视频观看NBA直播，边进行工作了。\n\n\n\n图片",
+    "crumbs": [
+      "第二章 生物信息常用工具",
+      "2.2 xshell使用教程"
+    ]
+  },
+  {
+    "objectID": "source/2-tools/a2.html#传输文件",
+    "href": "source/2-tools/a2.html#传输文件",
+    "title": "2.2 xshell使用教程",
+    "section": "传输文件",
+    "text": "传输文件\n如果本机已经安装了xftp，可以在xshell中直接调用xftp进行文件传输，非常方便。\n\n\n\n图片",
+    "crumbs": [
+      "第二章 生物信息常用工具",
+      "2.2 xshell使用教程"
+    ]
+  },
+  {
+    "objectID": "source/2-tools/a3.html",
+    "href": "source/2-tools/a3.html",
+    "title": "3  2.3 tabby",
+    "section": "",
+    "text": "3.1 tabby简介\ntabby是一款跨平台的现代化SSH工具，它是完全开源免费的，支持多种链接协议。\n官网：https://tabby.sh/\n功能亮点：",
+    "crumbs": [
+      "第二章 生物信息常用工具",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>2.3 tabby</span>"
+    ]
+  },
+  {
+    "objectID": "source/2-tools/a3.html#tabby简介",
+    "href": "source/2-tools/a3.html#tabby简介",
+    "title": "3  2.3 tabby",
+    "section": "",
+    "text": "图片\n\n\n\n\n在 Windows、Mac 和 Linux 上运行\n具有连接管理器的集成 SSH 客户端\n集成串行终端\nPowerShell，PS Core，WSL，Git-Bash，Cygwin，Cmder和CMD支持\n完全支持Unicode，包括双角字符\n通过 SFTP 和 Zmodem 从 SSH 会话到SSH会话的文件传输\n主题和配色方案\n完全可配置的快捷键和多弦快捷键\n记住您的选项卡和拆分窗格\nWindows上适当的shell体验，包括选项卡完成\n用于 SSH 机密和配置的集成加密容器",
+    "crumbs": [
+      "第二章 生物信息常用工具",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>2.3 tabby</span>"
+    ]
+  },
+  {
+    "objectID": "source/2-tools/a3.html#安装使用",
+    "href": "source/2-tools/a3.html#安装使用",
+    "title": "3  2.3 tabby",
+    "section": "3.2 安装使用",
+    "text": "3.2 安装使用\n下载地址：https://github.com/Eugeny/tabby/releases/latest\n\n\n\n图片\n\n\n1. 打开tabby，选择中文语言\n\n\n\n图片\n\n\n2.创建SSH链接\n\n\n\n图片\n\n\n3.输入IP地址，用户名以及密码\n\n\n\n图片\n\n\n4. 登录服务器\n\n\n\n图片",
+    "crumbs": [
+      "第二章 生物信息常用工具",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>2.3 tabby</span>"
+    ]
+  },
+  {
+    "objectID": "source/2-tools/a3.html#个性化设置",
+    "href": "source/2-tools/a3.html#个性化设置",
+    "title": "3  2.3 tabby",
+    "section": "3.3 个性化设置",
+    "text": "3.3 个性化设置\n设置主题，字体型号，字体大小等。\n\n\n\n图片",
+    "crumbs": [
+      "第二章 生物信息常用工具",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>2.3 tabby</span>"
+    ]
+  },
+  {
+    "objectID": "source/2-tools/a3.html#传输文件",
+    "href": "source/2-tools/a3.html#传输文件",
+    "title": "3  2.3 tabby",
+    "section": "3.4 传输文件",
+    "text": "3.4 传输文件\ntabby支持sz/rz命令传输小文件，也支持sftp传输文件。\n\n\n\n图片",
+    "crumbs": [
+      "第二章 生物信息常用工具",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>2.3 tabby</span>"
+    ]
+  },
+  {
+    "objectID": "source/2-tools/a4.html",
+    "href": "source/2-tools/a4.html",
+    "title": "2.4 vscode",
+    "section": "",
+    "text": "vscode简介\n在做生物信息分析过程中，经常需要查看序列，编辑文本，修改程序代码等，这个过程中就需要使用文本编辑器。一般系统自带的文本编辑器都过于简单，例如windows的记事本等，不能打开大文件，不能识别不同换行符，不支持语法高亮等，无法达到工作要求。优秀的文本编辑器有很多，例如收费的Utraledit，Sublime Text3，editplus等，免费的有notepad++，atom等，这里我们推荐使用微软推出的vscode编辑器，它的一个显著特性就是支持windows，mac和Linux多个平台，使用体验都差不多。安装完在图形界面下，可以使用右键快速打开多种扩展名的文本文件。",
+    "crumbs": [
+      "第二章 生物信息常用工具",
+      "2.4 vscode"
+    ]
+  },
+  {
+    "objectID": "source/2-tools/a4.html#vscode简介",
+    "href": "source/2-tools/a4.html#vscode简介",
+    "title": "2.4 vscode",
+    "section": "",
+    "text": "图片",
+    "crumbs": [
+      "第二章 生物信息常用工具",
+      "2.4 vscode"
+    ]
+  },
+  {
+    "objectID": "source/2-tools/a4.html#安装使用",
+    "href": "source/2-tools/a4.html#安装使用",
+    "title": "2.4 vscode",
+    "section": "安装使用",
+    "text": "安装使用\n软件的安装和使用比较简单，直接下载对应的系统版本即可。然后下一步下一步安装就行。这里需要特别注意，在安装第二步，最好将下面两项勾选上，这样做的目的是在鼠标右键会多处一个“通过code打开”的菜单，这样打开文件非常方便。 下载地址：https://code.visualstudio.com/\n\n\n\n图片\n\n\n接下来在系统中，常用的文本文件都可以直接使用vscode打开了。比如windows系统中各种扩展名的文件，比如*txt，.log等，不需要都使用excel，word，记事本打开了。包括各种生物数据，fastq，fasta，gff，vcf，bed等格式，最好都使用vscode来打开，而不是记事本或word。\n\n\n\n图片",
+    "crumbs": [
+      "第二章 生物信息常用工具",
+      "2.4 vscode"
+    ]
+  },
+  {
+    "objectID": "source/2-tools/a4.html#安装中文语言包",
+    "href": "source/2-tools/a4.html#安装中文语言包",
+    "title": "2.4 vscode",
+    "section": "安装中文语言包",
+    "text": "安装中文语言包\n默认的使用语言是英文，如果不习惯看英文菜单，可以通过安装扩展包设置为中文菜单，也很简单。选择安装扩展包，左侧最下面的选项图标，然后搜索“Chinese”，点击安装，然后重启就可以了。\n\n\n\n图片",
+    "crumbs": [
+      "第二章 生物信息常用工具",
+      "2.4 vscode"
+    ]
+  },
+  {
+    "objectID": "source/2-tools/a4.html#高亮生物数据",
+    "href": "source/2-tools/a4.html#高亮生物数据",
+    "title": "2.4 vscode",
+    "section": "高亮生物数据",
+    "text": "高亮生物数据\n安装bioSyntax显示各种生物数据，没太多用处，就是开起来好看而已。\n\n\n\n图片",
+    "crumbs": [
+      "第二章 生物信息常用工具",
+      "2.4 vscode"
+    ]
+  },
+  {
+    "objectID": "source/2-tools/a4.html#vscode远程连接服务器",
+    "href": "source/2-tools/a4.html#vscode远程连接服务器",
+    "title": "2.4 vscode",
+    "section": "vscode远程连接服务器",
+    "text": "vscode远程连接服务器\nvscode通过插件功能，无所不能。首先，ctrl+shift+x，打开vscode扩展，搜索Remote Development插件，该插件带有remote-ssh功能。\n\n\n\n图片\n\n\n安装完成之后就可以通过ssh远程登录服务器，实现xshell或者termius的功能。",
+    "crumbs": [
+      "第二章 生物信息常用工具",
+      "2.4 vscode"
+    ]
+  },
+  {
+    "objectID": "source/2-tools/a4.html#自动登录",
+    "href": "source/2-tools/a4.html#自动登录",
+    "title": "2.4 vscode",
+    "section": "自动登录",
+    "text": "自动登录\n该过程不是必须，为了使用方便，可以设置自动登录功能，如果不设置，也可以每次输入密码，windows系统打开终端命令行，通过ssh-keygen生产密钥对，将公钥 上传至服务器。在windows终端中输入ssh-keygen命令\n\n\n\n图片\n\n\n然后将id_rsa.pub文件找到，上传到服务器。\n\"C:\\Users\\xxxx\\.ssh\\id_rsa.pub\"\n其中xxxx为用户名，你自己电脑更改为自己用户名，不要教条的直接复制xxxx。\n在服务器端，将该文件追加写入authorized_keys\n(base) wangtong 09:45:00 ~/.ssh\n$ cat id_rsa.pub &gt;&gt;authorized_keys\n我们服务器中默认目录不在/home下，且开启了selinux，所以需要修改一下权限。\n#修改权限\nchcon -R -u system_u -t ssh_home_t .ssh/\n配置config文件\n最后在本地vscode配置文件config中添加本地密钥文件。\n# Read more about SSH config files: https://linux.die.net/man/5/ssh_config\nHost N1\n HostName n1.tongyuangene.com\n User wangtong\n Port 10088\n IdentityFile \"C:\\Users\\xxxx\\.ssh\\id_rsa\"",
+    "crumbs": [
+      "第二章 生物信息常用工具",
+      "2.4 vscode"
+    ]
+  },
+  {
+    "objectID": "source/2-tools/a4.html#ssh远程登录",
+    "href": "source/2-tools/a4.html#ssh远程登录",
+    "title": "2.4 vscode",
+    "section": "ssh远程登录",
+    "text": "ssh远程登录\n选择左侧图标，双击刚才配置好的ssh，观察左下角登录状态，如果提示输入密码，则是自动登录没有配置成功，输入密码即可。\n\n\n\n图片\n\n\n这样就登录成功了。ctrl+快捷键即可打开远程终端。使用起来与termius差不多。\n\n\n\n图片",
+    "crumbs": [
+      "第二章 生物信息常用工具",
+      "2.4 vscode"
+    ]
+  },
+  {
+    "objectID": "source/2-tools/a4.html#配置python环境",
+    "href": "source/2-tools/a4.html#配置python环境",
+    "title": "2.4 vscode",
+    "section": "配置python环境",
+    "text": "配置python环境\n利用vscode远程连接服务器使用功能python非常方便，不仅可以直接运行python，还可以打开jupyter，进行交互式数据分析。\n1.首先安装mambaforge\n#1 下载bioconda\nwget https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-Linux-x86_64.sh\n\n#2 安装\nsh Miniforge3-Linux-x86_64.sh\nsource ~/.bashrc\n\n#3 添加软件源\nconda config --add channels bioconda \n2.安装python环境\n#1 创建虚拟环境\nmamba create -n python \n\n#2 安装python以及数据分析包\nmamba install -y numpy\nmamba install -y pandas\nmamba install -y matplotlib\nmamba install -y seaborn\nmamba install -y scipy\n3.安装python，jupyter插件\n通过菜单直接打开python文件或者jupyter文件，接口直接进行调试运行。如果运行不了，就需要在服务器端也安装python和jupyter扩展。\n\n\n\n图片",
+    "crumbs": [
+      "第二章 生物信息常用工具",
+      "2.4 vscode"
+    ]
+  },
+  {
+    "objectID": "source/2-tools/a4.html#配置r环境",
+    "href": "source/2-tools/a4.html#配置r环境",
+    "title": "2.4 vscode",
+    "section": "配置R环境",
+    "text": "配置R环境\n虽然rstudio-server已经非常好用了，但rstudio-server只能使用一个服务器管理员安装的R。如果想在图形化模式下使用自己安装的R，则可以通过vscode实现。\n1.配置R环境\n这里同样通过bioconda来管理R以及R包。\n#1 配置R\nmamba install -y r-base\nmamba install -y radian\nmamba install -y r-languageserver\nmamba install -y r-httpgd\nconda install r-irkernel\n2.安装R插件\n这里安装的是配合远程SSH的插件。\n\n\n\n图片\n\n\n3.配置vscode\nvscode目前比较麻烦的就是需要通过文本修改一下配置，这对于一些新手不太友好。\n\n\n\n图片\n\n\n\n搜索”r.rterm”，\n在r.term. Linux 中输入radian路径\n在r.rterm.option，删除–no-save,–no-restore，添加–no-site-file\n勾选r.sessionWatcher，实现绘图IDE和查看数据框\n勾选httpgd\n\n4.运行R\n正确完成以上配置，就可以直接在vscode中运行R，可以实现代码自动补齐，View()查看数据，显示绘图等。还可以通过设置键盘快捷键实现R赋值操作符以及管道操作符等。\n\n\n\n图片",
+    "crumbs": [
+      "第二章 生物信息常用工具",
+      "2.4 vscode"
+    ]
+  },
+  {
+    "objectID": "source/2-tools/a5.html",
+    "href": "source/2-tools/a5.html",
+    "title": "2.5 windows terminal",
+    "section": "",
+    "text": "windows terminal简介\n而现在新发布的windows terminal非常的好用。首先可以从windows store下载该软件，也可以从微软的github页面进行下载。\nhttps://github.com/microsoft/terminal/releases\nhttps://learn.microsoft.com/zh-cn/windows/terminal/install\n如果熟悉命令操作，也可以在dos中一条命令进行下载。\n安装完成之后该软件名在中文系统环境下为终端。在开始菜单中找到就可以直接运行。",
+    "crumbs": [
+      "第二章 生物信息常用工具",
+      "2.5 windows terminal"
+    ]
+  },
+  {
+    "objectID": "source/2-tools/a5.html#windows-terminal简介",
+    "href": "source/2-tools/a5.html#windows-terminal简介",
+    "title": "2.5 windows terminal",
+    "section": "",
+    "text": "winget install --id=Microsoft.WindowsTerminal -e\n\n\n\n图片",
+    "crumbs": [
+      "第二章 生物信息常用工具",
+      "2.5 windows terminal"
+    ]
+  },
+  {
+    "objectID": "source/2-tools/a5.html#使用和配置",
+    "href": "source/2-tools/a5.html#使用和配置",
+    "title": "2.5 windows terminal",
+    "section": "使用和配置",
+    "text": "使用和配置\n终端默认支持PowerShell，CMD，WSL以及微软Azure云服务。默认打开是CMD，如果喜欢使用其他终端，例如wsl ubuntu ，可以在设置中进行修改。\n\n\n\n图片\n\n\n配置选项极其丰富，可以使用鼠标的方式，也可以创建一个json文件进行配置。\n\n\n\n图片\n\n\n我这里选择默认启动方式为PowerShell，可以对整体进行设置，也可以对其中一个外观进行配置，例如这里单独配置PowerShell，可以设置字体，字号，连光标形状都可以进行自己配置，还支持透明度。\n\n\n\n图片",
+    "crumbs": [
+      "第二章 生物信息常用工具",
+      "2.5 windows terminal"
+    ]
+  },
+  {
+    "objectID": "source/2-tools/a5.html#远程登录",
+    "href": "source/2-tools/a5.html#远程登录",
+    "title": "2.5 windows terminal",
+    "section": "远程登录",
+    "text": "远程登录\n1.打开windows terminal\n可以是传统windows dos命令行，也可以是PowerShell。windows terminal可以查看之前内容进行下载安装。 \n2.运行命令\n#生成密钥对\nssh-keygen.exe\n3.将公钥上传至服务器 如果是mac或者Linux系统可以直接使用ssh-copy-id命令，如果没有可以使用scp命令进行传输，传输过程中直接改名字。或者登录服务器端追加到authroziled_keys文件中。\nscp .\\id_rsa.pub wangtong@192.168.0.133:~/.ssh/authorized_keys\n4.直接登录\n接下来就可以直接使用ssh命令登录了，不用输入密码即可自动登录。\nssh wangtong@192.168.0.133\n5.设置别名\n如果嫌每次登录输入IP地址麻烦，还可以设置别名，由于windows不方便使用alias直接设置别名，可以修改属性的方法完成永久设置，使用echo命令找到配置文件，如果没有文件夹和文件名，自己手动创建即可。\n#查找属性文件\necho $PROFILE\nC:\\Users\\wangtong\\Documents\\WindowsPowerShell\\Microsoft.PowerShell_profile.ps1\n6.在文件中添加别名\n在属性文件目录下创建一个Microsoft.PowerShell_profile.ps1文件，然后打开。\n# function 别名 { 需要替代的命令，可以包含空格 }\nfunction a1 {ssh wangtong@192.168.0.133}\nfunction sa1 {sftp wangtong@192.168.0.133}\n将上面函数添加到文件中，用户名和IP地址根据自己的情况修改，不要完全照搬上面的。为了设置不间断连接，可以添加-o选项，-o ServerAliveInterval=60\n\n\n\n图片\n\n\n7.修改权限 因为 Windows 系统为了防止恶意脚本自动执行，故默认不允许自动运行脚本。 需要以管理员身份，找到cmd或者PowerShell，点击邮件，选择“以管理员身份运行”，在 PowerShell 中执行以下命令完成配置。\nSet-ExecutionPolicy RemoteSigned\n8.快速登录\n以后直接在命令行中敲设置好的命令别名即可快速登录，使用sftp命令进行文件传输。\n\n\n\n图片",
+    "crumbs": [
+      "第二章 生物信息常用工具",
+      "2.5 windows terminal"
+    ]
+  },
+  {
+    "objectID": "source/5-biosoft/bio1.html",
+    "href": "source/5-biosoft/bio1.html",
+    "title": "8  5.1 生物软件",
+    "section": "",
+    "text": "8.1 1 什么是生物软件？\n什么是生物软件？首先要明白什么是软件。软件是控制计算机硬件功能及其运行的指令、例行程序和符号语言。通常软件是由程序+文档组成。生物软件顾名思义，就是专门用来处理生物数据的软件。本质上，生物软件就是将处理生物数据的方法和过程以及对各个问题的解决方法写到程序中。\n与传统的应用软件例如微信，QQ，手机App相比，生物软件通常具有以下几个显著特点：\n1、一般只有Linux系统版本，而且采用命令行模式，没有图形化界面，这对于新手非常不友好；\n2、一般都是开源且免费，可以很容易获取；\n3、需要有发表文献支持；\n4、需要有一个专门网站或者专属页面的官网；\n5、开发语言多种多样，可能是C，java，python，perl或者R；\n6、开发者水平不一，参差不齐；\n7、版本很关键，不同版本之间差别很大；\n8、有很多选项参数。",
+    "crumbs": [
+      "第五章 生物软件",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>5.1 生物软件</span>"
+    ]
+  },
+  {
+    "objectID": "source/5-biosoft/bio1.html#生物软件发表文献",
+    "href": "source/5-biosoft/bio1.html#生物软件发表文献",
+    "title": "8  5.1 生物软件",
+    "section": "8.2 2 生物软件发表文献",
+    "text": "8.2 2 生物软件发表文献\n生物软件也可以单独发表SCI，例如发表方法学的，软件比较之类的文章。发表论文之后的生物软件才可以进行引用。一般生物软件常发表在《Bioinfomatics》、《Nature Biotechnology》、《Nature Method》、《Nature Protocols》等文章之上。\n除了经典的生物软件之外，目前一些R包，pyhton模块，整合流程等都可以单独发表SCI文章。\n​ \n图 1 生物信息杂志\n如果想要发表生物软件类文章，需要完成以下内容：\n1、公开软件源代码；\n2、撰写软件详细文档，包括开发目的，解决问题，如何安装，使用说明，使用案例，常见问题；\n3、撰写论文；\n4、提供一个软件官网，可以一个独立网站或者代码托管github；\n5、持续更新；",
+    "crumbs": [
+      "第五章 生物软件",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>5.1 生物软件</span>"
+    ]
+  },
+  {
+    "objectID": "source/5-biosoft/bio1.html#如何查找生物软件",
+    "href": "source/5-biosoft/bio1.html#如何查找生物软件",
+    "title": "8  5.1 生物软件",
+    "section": "8.3 3 如何查找生物软件？",
+    "text": "8.3 3 如何查找生物软件？\n生物软件成千上万，从哪里下载软件？不同软件之间有哪些差别，哪款软件才是最合适的。下面我们介绍几种查找软件的方法。\n\n8.3.1 3.1文献引用\n生物软件需要发表文章才能被人熟知，才能进行引用。我们可以根据软件的文章来查找软件。一般软件的文章也是软件的说明书，文章内会给出软件的链接地址，开发目的，使用说明等。另外，软件文章的引用率也是软件质量的评估标准，引用率越高，一般可以认为软件的质量越好，结果越可靠，例如blast软件，至今引用率已经超过4.9万次。\n\n\n\nimage-20240219093532889\n\n\n图 2 blast软件引用已经超过4.9万次\n\n\n8.3.2 3.2某一领域权威机构\n一些比较大的科学研究机构的软件质量更高，例如NCBI，EBI，BROAD，sanger，华盛顿大学，冷泉港实验室等，这些科研结构会发表一些重要软件。例如Rob Knight 实验室开发的qiime2几乎是宏基因组16S分析领域标准流程，具有非常大的影响力。\n\n\n8.3.3 3.3论坛 、微信公众号推荐\n国内外各大论坛，微信公众号，知乎等网络平台，也会有很多生物信息软件的推荐和教程。例如经常有人在biostar论坛讨论生物信息软件。可以通过这些平台来查找生物信息软件。\nbiostar论坛：&lt;www.biostar.org](http://www.biostar.org&gt;\n微信知乎搜索：\nhttps://weixin.sogou.com/\nhttps://zhihu.sogou.com/\n\n\n8.3.4 3.4 Github\ngithub是著名的代码托管网站，目前绝大部分的生物软件官网都选在github上。可以通过github进行搜索，下载等。github的好处是可以管理软件的版本，提交错误信息，与软件作者进行直接的交流。目前Github拥有超过900万开发者用户，用户可以十分轻易地找到海量的开源代码。\nhttps://github.com/\n\n\n\nimage-20240219093540978\n\n\n图 3 github吉祥物Octocat\n\n\n8.3.5 3.5 博客\nhttps://mybiosoftware.com/\nhttps://truwl.com/tools\n上面是两个博客地址，里面搜集了一些生物软件的内容，可以通过这里来找到一些软件的下载地址。",
+    "crumbs": [
+      "第五章 生物软件",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>5.1 生物软件</span>"
+    ]
+  },
+  {
+    "objectID": "source/5-biosoft/bio1.html#为什么生物软件不容易安装",
+    "href": "source/5-biosoft/bio1.html#为什么生物软件不容易安装",
+    "title": "8  5.1 生物软件",
+    "section": "8.4 4 为什么生物软件不容易安装？",
+    "text": "8.4 4 为什么生物软件不容易安装？\n生物软件千差万别，有些非常难安装，主要有以下几点原因。\n第一、由于Linux系统开源的特点，至今无法有统一的系统环境，例如Redhat与Debian两大阵营就有很大的差别。不如windows与macos，具有相对统一的集成开发环境，软件安装比较容易。\n第二、客观上来说，生物学研究是一项复杂的工作，很难有一款软件完美的解决问题，比如基因组拼接，由于这件事情本身的复杂性，找不到一款工具得到最优结果，这样才会出现很多软件可供选择；\n第三、生物软件的开发语言也包含很多种，有C，C++，Java，python，perl，R等等。\n第四：由于很多生物软件个人作者较多，且非计算机专业背景，目前生物软件没有标准的开发规范，软件质量参差不齐，也导致比较难安装；\n第五、灌水类文章较多，没有实际价值，很多都是闭门造车，还重新发明轮子，最后重蹈覆辙；\n第六、python的版本问题，python2与pyhton3的版本不兼容，并且很多包也有严格的版本要求；\n第七、缺乏长期维护更新，文章发表即软件结束生命周期，后续系统版本升级，导致软件无法使用。例如openssh升级，软件没有升级，导致软件无法使用。",
+    "crumbs": [
+      "第五章 生物软件",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>5.1 生物软件</span>"
+    ]
+  },
+  {
+    "objectID": "source/5-biosoft/bio1.html#生物软件安装的几种方法",
+    "href": "source/5-biosoft/bio1.html#生物软件安装的几种方法",
+    "title": "8  5.1 生物软件",
+    "section": "8.5 5 生物软件安装的几种方法？",
+    "text": "8.5 5 生物软件安装的几种方法？\n1、二进制：下载之后，可直接运行；\n2、需要自行编译；\n3、解决环境依赖之后编译；\n4、利用bioconda安装；\n5、利用docker安装；\n6、利用yum，apt安装；",
+    "crumbs": [
+      "第五章 生物软件",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>5.1 生物软件</span>"
+    ]
+  },
+  {
+    "objectID": "source/5-biosoft/bio1.html#如何确定一款优秀生物软件",
+    "href": "source/5-biosoft/bio1.html#如何确定一款优秀生物软件",
+    "title": "8  5.1 生物软件",
+    "section": "8.6 6 如何确定一款优秀生物软件",
+    "text": "8.6 6 如何确定一款优秀生物软件\n1、功能强大\n一个好的软件需要安装简单，使用简单，功能强大。可以很好的解决用户的需求。例如qiime2软件，可以完成整个二代测序16S序列分析的问题。bwa比对适应多种比对情况，还提供samtools，bcftools工具，对比对完数据做进一步的处理。\n2、安装简单\n作者有责任让软件易于安装。很多软件光安装一步就把一大部分用户拒之门外了，有些软件明明只调用其他工具一个函数，也得安装一堆依赖，并且总喜欢调用最新的依赖。\n\n\n\nimage-20240219093938961\n\n\n图 4 软件调用最新配置，导致该包很难安装\n如果一款软件安装太复杂，最好不要使用了，肯定能找到更好的替代。软件难安装，说明软件作者开发水平较低，作者水平较低，写的代码你愿意相信吗，软件的结果当然也不可靠了。\n3、文档清晰\n文档会描述软件的功能，如何安装，如何使用，有哪些注意事项等内容，如果作者不清楚这些事情，描述不清楚，文档过于简单，说明本身对于这个事情理解的不够深入，思路不清晰，考虑的不周全，开发出来的软件当然不靠谱了\n4、持续更新\n软件持续更新，才能适应新的情况，解决以往不足，一款好的需要持续更新，例如blast软件，从诞生到现在始终在持续更新。注：blast后被作者开发的blast+替代，blast+继续更新。\n5、引用率高\n一般引用率高代表经过更多的数据验证，可靠性更高。",
+    "crumbs": [
+      "第五章 生物软件",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>5.1 生物软件</span>"
+    ]
+  },
+  {
+    "objectID": "source/5-biosoft/bio1.html#普通用户安装软件",
+    "href": "source/5-biosoft/bio1.html#普通用户安装软件",
+    "title": "8  5.1 生物软件",
+    "section": "8.7 7普通用户安装软件",
+    "text": "8.7 7普通用户安装软件\nLinux系统是多用户，多任务系统，可以允许多个用户同时运行。Linux的用户分为管理员用户（通常为root）和普通用户。通常生物信息分析时，都是使用普通用户登录使用。这是因为管理员用于权限过大，如果误操作，影响非常大。强烈不建议使用管理员账户进行各种数据分析工作。管理员用户可以进行各种系统配置，例如安装gcc，glibc这些配置以及用户管理等工作。管理员安装的软件工具，可以让所有用户同时使用。\n作为普通用户，也可以单独安装生物软件，但是只能在自己的权限目录内读写。只要是通过源代码变异的方式进行安装。\n举个例子，如果centos 7系统gcc编译器4.8.5。如果需要使用更高版本的gcc软件，可以自己进行编译安装，安装完成之后还需要修改默认配置，是自己安装的gcc软件优先级更高。而如果是系统管理员可以使用yum，apt，rpm包等进行安装，一条命令即可，更加方便。例如安装R软件，管理员可以使用yum命令直接进行安装。\n#1 centos系统安装R\nyum install -y R.x86_64\n\n#2 ubuntu系统安装R\napt install -y r-base\n\n#3 普通用户编译R\nwget https://cloud.r-project.org/src/base/R-4/R-4.1.1.tar.gz\ntar -zxvf R-4.1.1.tar.gz -C ~/biosoft\ncd ~/biosoft/ R-4.1.1\n./configure --enable-R-shlib --with-pcre1 \n\n#4 编译\nmake\nmake install\n不过目前普通用户使用bioconda也可以完成绝大部分软件的安装。",
+    "crumbs": [
+      "第五章 生物软件",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>5.1 生物软件</span>"
+    ]
+  },
+  {
+    "objectID": "source/5-biosoft/bio1.html#流程类生物软件的问题",
+    "href": "source/5-biosoft/bio1.html#流程类生物软件的问题",
+    "title": "8  5.1 生物软件",
+    "section": "8.8 8流程类生物软件的问题",
+    "text": "8.8 8流程类生物软件的问题\n\n8.8.1 8.1什么是分析流程\n所谓分析流程就是把一些常用的操作连接起来，实现自动化，达到输入数据，直接就能出结果的效果。举例来说，要做一个细菌基因组的分析，通常从拿到数据，需要做数据质控，数据过滤，过滤完质控，基因组拼接，拼接结果统计，基因预测，基因功能注释等。如果将每个过程连接起来，上一步的输出作为下一步的输入，就可以实现自动化的操作。\n有很多专门用于构建流程的语言，比如一些脚本语言，例如shell语言，perl语言，pyhton等，还有专门的流程语言，例如Common Workflow language，SnakeMake，NextFlow等。\n\n\n\nimage-20240219094044360\n\n\n图 5 GATK分析人基因变异检测流程\n\n\n8.8.2 8.2流程的缺点\n1、生物数据分析属于探索性工作，自动化流程不适合数据探索；\n2、流程的过程中，有很多软件，每一个软件都有很多选项参数，流程没有办法测试全部选项参数组合，因此，里面都是固定好的常用选项参数，所有的样本都用同样的选项参数“工厂化”生产，显然也是有问题的。\n3、流程当中，中间环节出问题，很难排错，需要对每一个环节非常清楚。\n\n\n\nimage-20240219094053788\n\n\n图 6 流程设计模式图",
+    "crumbs": [
+      "第五章 生物软件",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>5.1 生物软件</span>"
+    ]
+  },
+  {
+    "objectID": "source/5-biosoft/bio2.html",
+    "href": "source/5-biosoft/bio2.html",
+    "title": "9  5.2 编译软件",
+    "section": "",
+    "text": "9.1 1 解释语言与编译语言\n生物信息软件作者使用多种类型的程序语言，例如C，C++,python，java，python，R等，这些语言都高级程序语言，各有优缺点。计算机最终都需要将其转换为二进制才能执行。那么转换成二进制的过程分为编译型和解释型。",
+    "crumbs": [
+      "第五章 生物软件",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>5.2 编译软件</span>"
+    ]
+  },
+  {
+    "objectID": "source/5-biosoft/bio2.html#解释语言与编译语言",
+    "href": "source/5-biosoft/bio2.html#解释语言与编译语言",
+    "title": "9  5.2 编译软件",
+    "section": "",
+    "text": "9.1.1 1.1 编译型与解释型\n\n编译型语言代表有：C语言，C++、Object-C等；通常都会对源代码进行编译，生成可以执行的二进制代码，执行的是编译后的结果\n解释型语言代表有：JavaScript、Python、Erlang、PHP、Perl、Ruby等；通常不用对源代码进行编译，一般是通过解释器载入脚本后运行。由于每个语句都是执行的时候才进行解释翻译，这样解释性语言每次执行就要翻译一次，效率相对要低。\nJava具有编译与解释两种特性：既可以将其源代码当作脚本执行，也可以进行编译成.class代码（字节码）载入运行。\n\n\n\n9.1.2 1.2 编译型与解释型的区别\n编译型语言的是将源代码编译成二进制代码之后才能运行，因此执行效率更高，可已移植性更好。例如有些C语言编写的程序，直接将编译好的软件拷贝到新的设备上就可以直接运行。但是，编译型语言每次都得编译之后才能运行，在编写程序时，不容易测试。\n解释型语言的优点是不需要编译就可以直接运行，方便查看源代码。而且有良好的平台兼容性，在任何环境中都可以运行，可以快速部署，不用停机维护。但是解释型语言移植到新设备上同时需要编译器。例如python程序只有设备上安装了python程序才能解释执行。另外，由于每次运行的时候都要解释一遍，性能上不如编译型语言。",
+    "crumbs": [
+      "第五章 生物软件",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>5.2 编译软件</span>"
+    ]
+  },
+  {
+    "objectID": "source/5-biosoft/bio2.html#readme文件",
+    "href": "source/5-biosoft/bio2.html#readme文件",
+    "title": "9  5.2 编译软件",
+    "section": "9.2 2 README文件",
+    "text": "9.2 2 README文件\n一般软件安装包内，除了包含各种源代码文件，还包括测试数据，软件说明，以及README文件。文件名可以为README，readme.md，readme.txt，INSTALL.txt ，INSTALL等。可以直接使用less命令查看。readme文件会对软件进行详细的介绍，包括软件说明，安装方法，使用案例，联系方式等内容，主要看安装方法部分。\n#安装R语言依赖\nyum install -y --skip-broken zlib java gcc-gfortran gcc gcc-c++ readline-devel libXt-devel bzip2-devel.x86_64 bzip2-libs.x86_64 xz-devel.x86_64 pcre-devel.x86_64 libcurl-devel.x86_64\n\n#下载\nwget https://cloud.r-project.org/src/base/R-4/R-4.1.1.tar.gz\ntar -zxvf R-4.1.1.tar.gz -C ~/biosoft\ncd ~/biosoft/ R-4.1.1\n查看编译部分，打INSTALL文件\nAs you are reading this file, you have unpacked the R sources and are\npresumably in the top directory.  Issue the following commands:\n\n    ./configure\n    make\n\n(If your make is not called `make', set the environment variable MAKE to\nits name, and use that name throughout these instructions.)\nThis will take a while, giving you time to read `R-admin.html'.\n\nThen check the built system worked correctly, by\n\n    make check\n\nand make the manuals by either or both of\n\n    make pdf    to create PDF versions\n    make info   to create info files\n\nHowever, please read the notes in `R-admin.html' about paper size and\nmaking the reference manual.",
+    "crumbs": [
+      "第五章 生物软件",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>5.2 编译软件</span>"
+    ]
+  },
+  {
+    "objectID": "source/5-biosoft/bio2.html#编译软件过程",
+    "href": "source/5-biosoft/bio2.html#编译软件过程",
+    "title": "9  5.2 编译软件",
+    "section": "9.3 3 编译软件过程",
+    "text": "9.3 3 编译软件过程\n一般编译软件分成三个步骤，有的分为四个步骤，具体几个步骤根据不同的软件不同，还需要看具体是哪种语言编写的程序。下面以一个典型的软件安装过程来进行介绍。\n\n9.3.1 3.1 configure\nconfigure是在编译前检查环境配置，也可以通过选项参数，来更改软件安装目录。configure是一个shell脚本文件，可以直接打开查看。configure运行时会不停检查环境，提示一些warnings和error信息。warnings可以忽略，但是遇到error就会停止，需要解决这个依赖，然后重新运行configure，直到全部检查通过，才可以进行下一步make。\n#检测配置\n./configure --enable-R-shlib --with-pcre1 \n\n\n9.3.2 3.2 make\n当configure运行结束，且没有问题的时候，可以使用make进行编译。make就是将源代码编译成二进制的过程。有些软件make之前还有一个make test，make check等过程。也有一些软件不需要configure，直接make编译。\nmake结束之后就会在目录下发现有些可执行文件，或者多出一个bin目录。这个时候就可以直接运行这些软件了。\n#编译\nmake\n\n\n9.3.3 3.3 make install\nmake已经完成了编译过程，make install主要是将软件链接到指定的安装目录，即第一步configue指定的目录下。如果第一步没有指定，则安装到默认的目录下，一般是/usr目录。这里需要注意，如果不是管理员用户，则没有权限写入/usr目录，这个时候会提示一个权限的问题，“Permission denied”，这个不影响软件运行，可以手动将可执行程序链接至自己的软件目录内。\n这样configure，make，make install就完成了软件安装，这其中，最重要的就是configure这一步。如果configure没有问题，则make 和 make install一般可以顺利完成。\n#安装\nmake install",
+    "crumbs": [
+      "第五章 生物软件",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>5.2 编译软件</span>"
+    ]
+  },
+  {
+    "objectID": "source/5-biosoft/bio2.html#安装已编译软件",
+    "href": "source/5-biosoft/bio2.html#安装已编译软件",
+    "title": "9  5.2 编译软件",
+    "section": "9.4 4安装已编译软件",
+    "text": "9.4 4安装已编译软件\n很多软件除了提供源代码之外，还提供了已编译的版本，也就是编译好的版本，这样的版本可以直接使用。如果软件提供编译好的版本，建议选择这样的版本，非常方便，下载之后，解压缩就可以使用了。源代码与已编译有什么区别呢？源代码编译会首先检查每个系统的硬件和环境配置，然后更有针对性的进行编译，一般来说，这样的软件运行效率比已编译的版本效率更高。不过，这样的效率差别主要针对互联网应用，有很大的运行次数，如果每次差1秒钟就会有很大的影响，生物软件影响不大。\n下面将通过几款软件的安装过程，来进行讲解练习。在安装软件之前，我们先创建三个文件目录，分别是bin，biosoft以及src。\n#创建文件夹\nmkdir bin biosoft src\nbin：存放每个软件的可执行程序\nbiosoft：软件安装目录；\nsrc：软件源代码；\n下面给出几个安装已编译好的软件，更多内容见案例代码。\n#1 blast+\nwget ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/ncbi-blast-2.12.0+-x64-linux.tar.gz\ntar -zxvf ncbi-blast-2.12.0+-x64-linux.tar.gz\ncd ~/biosoft/ncbi-blast-2.10.1+/bin\nls -1  | while read i;do ln -s $PWD/$i ~/bin/;done;\n\n#2 edirect\nwget  https://ftp.ncbi.nlm.nih.gov/entrez/entrezdirect/edirect.tar.gz\ntar -zxvf edirect.tar.gz \ncd ~/bin/\nln -s ~/biosoft/edirect/efetch .\nln -s ~/biosoft/edirect/edirect.pl .\n\n#3 sratookit\n#下载指定版本\nwget https://ftp-trace.ncbi.nlm.nih.gov/sra/sdk/2.10.8/sratoolkit.current-centos_linux64.tar.gz\ntar -zxvf sratoolkit.current-centos_linux64.tar.gz\ncd ~/bin\nln -s  ~/biosoft/sratoolkit.2.11.1-centos_linux64/bin/prefetch ./\nln -s  ~/biosoft/sratoolkit.2.11.1-centos_linux64/bin/fasterq-dump ./\nln -s  ~/biosoft/sratoolkit.2.11.1-centos_linux64/bin/fastq-dump ./",
+    "crumbs": [
+      "第五章 生物软件",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>5.2 编译软件</span>"
+    ]
+  },
+  {
+    "objectID": "source/5-biosoft/bio2.html#自行编译软件",
+    "href": "source/5-biosoft/bio2.html#自行编译软件",
+    "title": "9  5.2 编译软件",
+    "section": "9.5 5自行编译软件",
+    "text": "9.5 5自行编译软件\n有一些软件没有已编译版本，需要自行进行编译，自行编译的好处是可以更好的适应硬件环境，效率更好一些，但其实对于我们普通用户影响不大，又不是一些互联网应用，每秒处理上亿次请求的工具，会有一些差别。自行编译也不用太过担心，一些工具还是比较容易编译的，直接敲make就可以完成，稍微复杂一点的可以查看帮助文档，这个过程也是一个学习和深入理解计算机原理的过程。由于系统配置环境不同，下面编译软件，有些可能会不成功。如果编译不成功，后面可是使用bioconda来进行安装。将源代码解压至安装目录biosoft下，编译完成之后，将可执行程序ln -s链接到bin目录下即可。\n下面给出几个编译软件的案例，更多内容见脚本代码。\n#1 bwa\ncd ~/biosoft\ngit clone https://github.com/lh3/bwa.git\ncd bwa; make\n\n#2 minimap2\ngit clone https://github.com/lh3/minimap2\ncd minimap2 && make\n\n#3 prodigal\ngit clone https://github.com/hyattpd/Prodigal.git\ncd Prodigal\nmake install \n\n#4 canu\ngit clone https://github.com/marbl/canu.git\ncd canu/src\nmake \n\n#5 flye\ngit clone https://github.com/fenderglass/Flye\ncd Flye\nmake\n\n#6 mummer4\ngti clone https://github.com/mummer4/mummer.git\n./configure\nmake\nmake install",
+    "crumbs": [
+      "第五章 生物软件",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>5.2 编译软件</span>"
+    ]
+  },
+  {
+    "objectID": "source/5-biosoft/bio3.html",
+    "href": "source/5-biosoft/bio3.html",
+    "title": "10  5.3 Bioconda",
+    "section": "",
+    "text": "10.1 1 bioconda简介\nbioconda是一个管理生物信息软件的一个工具软件，可以将bioconda当成生物信息软件的AppStore。它基于Anaconda可以进行生物软件的搜索，下载，安装，升级，删除等操作。通过一条命令即可完成绝大部分生物软件的安装。目前已经是最好的生物软件管理工具之一，目前支持超过7000多款生物软件的安装。\n官方网址：http://bioconda.github.io/\n目前已经有超过7000多款生物都几件可以通过bioconda直接安装。\nhttps://anaconda.org/bioconda/repo\n为什么要选择使用bioconda，因为其很好的解决了生物软件安装过程中的各种问题，主要包括以下几点：\n1、自动解决了软件依赖问题，实现一条命令可以安装很多软件；\n2、bioconda可以很方便进行软件升级；\n3、无需管理员权限也可以安装很多软件；\n4、可以同时管理软件的多个版本\n5、所有软件安装在同一目录下，方便进行管理和迁移。",
+    "crumbs": [
+      "第五章 生物软件",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>5.3 Bioconda</span>"
+    ]
+  },
+  {
+    "objectID": "source/5-biosoft/bio3.html#bioconda软件安装",
+    "href": "source/5-biosoft/bio3.html#bioconda软件安装",
+    "title": "10  5.3 Bioconda",
+    "section": "10.2 2 bioconda软件安装",
+    "text": "10.2 2 bioconda软件安装\n要想使用bioconda来安装生物软件，首先要安装bioconda。bioconda来自与Anaconda软件，本质上只是Anaconda一个单独的生物软件源。经常看到Anaconda，Miniconda以及bioconda，三者之间有什么关系呢？\nAnaconda： 集合了常用Python包的数据科学平台 （full）\nMiniconda：精简版Anaconda （Lite）\nbioconda： 专门用来管理生物软件 （定制版）\nAnaconda和Miniconda是软件，bioconda只是一个特定的软件源。三者的管理工具都是conda命令。\n\n\n\nimage-20240223093649755\n\n\n图 1 Anaconda，miniconda以及conda三者的关系\n要想使用bioconda，需要三个步骤，下载软件，安装软件，添加软件源。\n1、下载安装：\nwget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh \n2、安装\nsh Miniconda3-latest-Linux-x86_64.sh \nsource ~/.bashrc\n3、添加软件源：\n目前bioconda提供是两个软件源，分别是biconda和conda-forge，默认的defaults是用来管理python相关的包。bioconda是官方维护的软件源，conda-forge通道是社区维护的，包含很多不在默认通道里面的通用型软件。安装完成之后需要将这两个软件源都添加进来。\nconda config --add channels bioconda \n\nconda config --add channels conda-forge\n以上步奏的效果是在每个用户的家目录下创建一个.condarc文件，并将这些软件源写入该文件。\n$ cat ~/.condarc\nchannels:\n - conda-forge\n - bioconda\n - defaults\n4、添加国内镜像（非必须）\n目前国内清华大学以及北京外国语大学等也提供biocodna的镜像，可以将这些镜像添加进来，替换官方镜像。但目前bioconda官方镜像速度还可以，且国内镜像如果有多人访问时会造成拥堵，反而更慢了，具体使用看个人需求，一般无需更换镜像。\n#添加清华大学镜像\nconda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/\nconda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/\nconda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/bioconda\nconda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/",
+    "crumbs": [
+      "第五章 生物软件",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>5.3 Bioconda</span>"
+    ]
+  },
+  {
+    "objectID": "source/5-biosoft/bio4.html",
+    "href": "source/5-biosoft/bio4.html",
+    "title": "11  5.4 利用mamba安装生物软件",
+    "section": "",
+    "text": "生物信息发展太快了，隔一段时间就得更新一下知识。之前推荐安装bioconda，隔一段时间出来一个mamba，替换conda。后来mamba又独立出来，这个时候就推荐大家安装Mambaforge。最近Mambaforge又快要不维护了。所以，目前最佳方式是直接安装Miniforge3。\n\nmambaforge不在鼓励使用了\nhttps://github.com/conda-forge/miniforge\n\n\n\n图片\n\n\n安装Miniforge3\nhttps://github.com/conda-forge/miniforge/releases\n\n\n\n图片\n\n\n1、下载安装：\n#下载mambaforge\nwget https://github.com/conda-forge/miniforge/releases/latest/download/Mambaforge-Linux-x86_64.sh\n2、安装\nsh Mambaforge-Linux-x86_64.sh \nsource ~/.bashrc\n3、添加软件源：\n目前bioconda提供是两个软件源，分别是biconda和conda-forge，默认的defaults是用来管理python相关的包。bioconda是官方维护的软件源，conda-forge通道是社区维护的，包含很多不在默认通道里面的通用型软件。安装完成之后需要将这两个软件源都添加进来。\nconda config --add channels bioconda \n以上步奏的效果是在每个用户的家目录下创建一个.condarc文件，并将这些软件源写入该文件。\n$ cat ~/.condarc\nchannels:\n  - conda-forge\n  - bioconda\n  - defaults",
+    "crumbs": [
+      "第五章 生物软件",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>5.4 利用mamba安装生物软件</span>"
+    ]
+  },
+  {
+    "objectID": "source/8-python/py5.html",
+    "href": "source/8-python/py5.html",
+    "title": "16  8.5 python代码风格",
+    "section": "",
+    "text": "16.1 PEP8\npython代码风格与其他编程语言有显著的差别。最明显的就是要求用缩进来标识代码块，y一般缩进为四个空格，尽量避免使用tab。而其他大部分语言用花括号{}表示代码块。如果缩进错误，代码无法执行，会提示错误。\n在“Python 增强提案8”(Pytho Enhancement Proposal 8,PEP 8)中，PEP 8约定了Python的推荐代码规范，基于Guido和Barry的Python代码风格规范改编而成。全文可在Python官方网站在线获取。\n下表中列出了部分Python式风格的规范，但为了能完全理解Python式风格，还请反复阅读PEP8。",
+    "crumbs": [
+      "第八章 python",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>8.5 python代码风格</span>"
+    ]
+  },
+  {
+    "objectID": "source/8-python/py5.html#pep8",
+    "href": "source/8-python/py5.html#pep8",
+    "title": "16  8.5 python代码风格",
+    "section": "",
+    "text": "场 景\n建 议\n示 例\n\n\n\n\n模块/包名\n简短、全小写、非必要时不带下划线\nimp、sys\n\n\n函数名\n全小写、用下划线增加可读性\nfoo()、my_func()\n\n\n变量名\n全小写、用下划线增加可读性\nmy_var\n\n\n类名\n单词首字母大写\nMyClass\n\n\n常量名\n全大写、下划线分隔\nPI、TAX RATE\n\n\n缩进\n每级相差 4个空格、不用 Tab 键\n\n\n\n比较操作\n不要与True或False值做比较\nif my var: if not my_var:",
+    "crumbs": [
+      "第八章 python",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>8.5 python代码风格</span>"
+    ]
+  },
+  {
+    "objectID": "source/8-python/py5.html#python代码注释",
+    "href": "source/8-python/py5.html#python代码注释",
+    "title": "16  8.5 python代码风格",
+    "section": "16.2 python代码注释",
+    "text": "16.2 python代码注释\npython代码中经常要添加注释，给代码添加注释是一个好习惯，否则一段时间之后，自己也无法记住当初代码的含义。\n在python中，注释可以分为行注释，代码块注释以及行内注释。行注释只需在代码前加“#”号即可，如果是行内注释，可以在代码后面加“#”以及注释内容。\n如果要注释的代码超过一行，可以使用一堆三个单引号或者双引号。\n在vscode与pycharm中可以使用快捷键“Ctrl + /”快速生成注释。\n如果想对多行进行注释，没有快捷键，可以通过下面方法来实现，首先选中要注释的多行，然后按住shift，然后在按引号实现注释。\n\n#生成一个汽车品牌列表\ncars = ['bmw', 'audi', 'toyota', 'subaru']\nprint(cars) *#**打印列表**\n\n\\* '''\n 反转列表顺序\n 打印列表\n\n '''\n cars.reverse()\n print(cars)",
+    "crumbs": [
+      "第八章 python",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>8.5 python代码风格</span>"
+    ]
+  },
+  {
+    "objectID": "source/8-python/py6.html",
+    "href": "source/8-python/py6.html",
+    "title": "12  8.6 变量",
+    "section": "",
+    "text": "12.1 什么是变量？\n变量需要赋值，这个值可以是一个数字，字符，也可以是更多内容。变量在程序运行过程中可以不停变化。一些程序语言在定义变量的时候需要声明变量类型，一些可以直接定义变量。\n在python语言中，可以直接定义变量。不过需要注意，在定义变量的过程中需要遵守一定的规则。这与绝大部分的编程语言类似。\npython推荐驼峰命名法，小驼峰式命名法第一个单词以小写字母开始，后续单词的首字母大写，例如：firstName、lastName；\n大驼峰式命名法，每一个单词的首字母都采用大写字母，例如：FirstName、LastName、CamelCase。\n也可以经常使用下划线来分割单词，例如student_nam，name_length。\n此外，不能使用系统内置的关键字来命名变量。下面代码可以查看系统中的内置关键字。",
+    "crumbs": [
+      "第八章 python",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>8.6 变量</span>"
+    ]
+  },
+  {
+    "objectID": "source/8-python/py6.html#什么是变量",
+    "href": "source/8-python/py6.html#什么是变量",
+    "title": "12  8.6 变量",
+    "section": "",
+    "text": "可以用字母、下划线、数字组成；\n变量名只能由字母或下划线开头，不能以数字开头；\n变量名不能具有二义性；\n不要与系统内置关键字重名;\n命名中不能有空格，需要空格的地方换成下划线；\n变量中不要使用点号，点号在python中有重要作用；\n\n\n\n\n\nimport keyword\n\nprint(keyword.kwlist)",
+    "crumbs": [
+      "第八章 python",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>8.6 变量</span>"
+    ]
+  },
+  {
+    "objectID": "source/8-python/py6.html#python下划线变量",
+    "href": "source/8-python/py6.html#python下划线变量",
+    "title": "12  8.6 变量",
+    "section": "12.2 python下划线变量",
+    "text": "12.2 python下划线变量\n在python中经常会看到很多包含下划线的变量，分为单下划线与多下划线，有些在前，有些在后。这些下换线变量有特殊含义。下面网站总结了python中下划线的变量含义。\n表 3 python下划线的含义\n\n\n\n表格 描述已自动生成\n\n\n链接地址：https://dbader.org/blog/meaning-of-underscores-in-python",
+    "crumbs": [
+      "第八章 python",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>8.6 变量</span>"
+    ]
+  },
+  {
+    "objectID": "source/8-python/py6.html#python中点的作用",
+    "href": "source/8-python/py6.html#python中点的作用",
+    "title": "12  8.6 变量",
+    "section": "12.3 python中点的作用",
+    "text": "12.3 python中点的作用\npython是一门面向对象语言，在python语言中点号”.”有重要作用，因此，不能在定义变量中添加点号，最好也不要在目录结构，文件名中包含点号。\npython通过点号来访问一个对象的属性与方法。对象可以理解为一个人，属性是静态信息，例如姓名，性别，身高，体重，籍贯等。而方法属于动态信息，例如一个人会跑，跳，唱歌，听说读写等。\n在python中，通过点号来访问一个对象的属性和方法，方法需要加括号。可以将点号翻译成“的”。例如定义一个对象小明（xiaoming），xiaoming.name翻译为小明的姓名。当在python中定义了一个变量之后，不同变量类型就不同的属性和方法了，可以通过dir（）函数可以查看一个对象全部属性与方法。\n\\# 加载numpy模块\n\nimport numpy as np\n\n\\# 定义一个对象\n\na = np.arange(10)\n\n\\# 查看对象属性与方法\n\ndir(a)\n\n\\# 通过点号查看a对象属性\n\na.dtype\n\n\\# 通过点号访问对象方法\n\na.sum()",
+    "crumbs": [
+      "第八章 python",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>8.6 变量</span>"
+    ]
+  },
+  {
+    "objectID": "source/8-python/py7.html",
+    "href": "source/8-python/py7.html",
+    "title": "13  8.7 循环",
+    "section": "",
+    "text": "13.1 for循环\npython的for循环非常简单，其中最重要的部分是可迭代类型，也就是in后面的部分，要想构成循环，可迭代部分不能是一个值，在python中一般是列表或者元组类型，也可以是字典，集合或者序列，总之包含多个值就行，否则只循环一次。\n第二个要注意的地方是python中不使用花括号包含代码块，而是使用一个冒号“**：**”；\n第三点要注意的地方是，下一行的语句一定要缩进，否则提示错误。",
+    "crumbs": [
+      "第八章 python",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>8.7 循环</span>"
+    ]
+  },
+  {
+    "objectID": "source/8-python/py7.html#for循环",
+    "href": "source/8-python/py7.html#for循环",
+    "title": "13  8.7 循环",
+    "section": "",
+    "text": "#循环\nfor i in [1, 2, 3, 4]:\n print(i)\n\n# 序列循环 \nfor i in 'ABCDEF':\n print(i)\n\nfor i in range(0,10):\n print (i)",
+    "crumbs": [
+      "第八章 python",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>8.7 循环</span>"
+    ]
+  },
+  {
+    "objectID": "source/8-python/py7.html#批量生成脚本",
+    "href": "source/8-python/py7.html#批量生成脚本",
+    "title": "13  8.7 循环",
+    "section": "13.2 批量生成脚本",
+    "text": "13.2 批量生成脚本\n\n#循环\n\nfor i in ['A1','A2','A3','A4','A5','B1','B2','B3','B4','B5']:\n print(i)\n\n#添加更多内容\n\nfor i in ['A1','A2','A3','A4','A5','B1','B2','B3','B4','B5']:\n reads1=\"sample_\"+ str(i) +\"_1.fq.gz\"\n reads2=\"sample_\"+ str(i) +\"_2.fq.gz\"\n print (reads1,reads2)\n\nfastqc='/ifs1/Software/bin/fastqc'\n\nfor i in ['A1','A2','A3','A4','A5','B1','B2','B3','B4','B5']:\n reads1=\"sample_\"+ str(i) +\"_1.fq.gz\"\n reads2=\"sample_\"+ str(i) +\"_2.fq.gz\"\n print(f'{fastqc} -f fastq -o qc -t 6 {reads1} {reads2}')",
+    "crumbs": [
+      "第八章 python",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>8.7 循环</span>"
+    ]
+  },
+  {
+    "objectID": "source/8-python/py7.html#while循环",
+    "href": "source/8-python/py7.html#while循环",
+    "title": "13  8.7 循环",
+    "section": "13.3 while循环",
+    "text": "13.3 while循环\nfor循环是对集合中的每一个元素分别操作，而while循环则不断的运行，直到指定的条件不再满足。\nwhile循环体的结构为首先一个判断条件，如果判断条件为真（True）则执行，否则停止循环。\n如果条件为True，则是一个死循环，死循环（endless loop）是指无法靠自身的控制终止的循环，也就是循环一直执行下去，直到加入外接条件才能改变循环，例如终止程序。\n\\#死循环\n\nwhile True:\n   print(f\"This is a endless loop\")\n\n死循环是非常危险的，如果是写入文件，死循环会一直往文件内输入内容，知道把整个磁盘写满。\n\n\\#死循环写入文件，下面代码很危险\n \n file_out = open('myfile.txt', 'w')\n while True:\n   file_out.write(\"This is a endless loop\\n\")\n不过死循环也有用处，比如操作系统开机之后有些程序就一直在循环运行，直到关机操作才终止执行。另外，服务器端一个序列的程序，一直在检测是否有上传的序列，直到检测到有人上传了序列，则跳出循环。\nfor循环一般是先判断条件，在执行，相对安全一些，而while循环如果条件为真，很容易造成死循环。因此，在while循环中一定要设置好跳出循环条件。\n#while循环    \ni=0\n\nwhile i&lt;10:\n  print (i)\n  i=i+1  \n上面的案例中，如果忘记每次给i的值增加，就是一个死循环。\ni=0\n while i&lt;10:\n   print (i)\n  \\# i=i+1",
+    "crumbs": [
+      "第八章 python",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>8.7 循环</span>"
+    ]
+  },
+  {
+    "objectID": "source/8-python/py7.html#for循环改成while循环",
+    "href": "source/8-python/py7.html#for循环改成while循环",
+    "title": "13  8.7 循环",
+    "section": "13.4 for循环改成while循环",
+    "text": "13.4 for循环改成while循环\n# for循环\n\nfor i in ['A1','A2','A3','A4','A5','B1','B2','B3','B4','B5']:\n  reads1=\"sample_\"+ str(i) +\"_1.fq.gz\"\n  reads2=\"sample_\"+ str(i) +\"_2.fq.gz\"\n  print (reads1,reads2)\n\n# while 循环\n\nalist = ['A1','A2','A3','A4','A5','B1','B2','B3','B4','B5']\ni = 0;\n\nwhile i &lt; len(alist):\n  name = alist[i]\n  reads1 = \"sample_\" + str(name) + \"_1.fq.gz\"\n  reads2 = \"sample_\" + str(name) + \"_2.fq.gz\"\n  print(f\"{reads1} {reads2}\")\n  i += 1",
+    "crumbs": [
+      "第八章 python",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>8.7 循环</span>"
+    ]
+  },
+  {
+    "objectID": "source/8-python/py8.html",
+    "href": "source/8-python/py8.html",
+    "title": "19  8.8 判断",
+    "section": "",
+    "text": "19.1 if-else结构",
+    "crumbs": [
+      "第八章 python",
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>8.8 判断</span>"
+    ]
+  },
+  {
+    "objectID": "source/8-python/py8.html#if-else结构",
+    "href": "source/8-python/py8.html#if-else结构",
+    "title": "19  8.8 判断",
+    "section": "",
+    "text": "# if语句\nage = 19\nif age &gt;= 18:\n    print(\"You are old enough to vote!\")\n\n# if else结构\nage = 17\nif age &gt;= 18:\n    print(\"You are old enough to vote!\")\n    print(\"Have you registered to vote yet?\")\nelse:\n    print(\"Sorry, you are too young to vote.\")\n    print(\"Please register to vote as soon as you turn 18!\")\n\n# 判断完进行处理\ncars = ['audi', 'bmw', 'subaru', 'toyota']\n\nfor car in cars:\n    if car == 'bmw':\n        print(car.upper())\n    else:\n        print(car.title())",
+    "crumbs": [
+      "第八章 python",
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>8.8 判断</span>"
+    ]
+  },
+  {
+    "objectID": "source/8-python/py8.html#if-elif-else结构",
+    "href": "source/8-python/py8.html#if-elif-else结构",
+    "title": "19  8.8 判断",
+    "section": "19.2 if-elif-else结构",
+    "text": "19.2 if-elif-else结构\n如果有两个以上条件，可以使用if-elif-else结构。注意这里的elif，表示else if，但是写成elif，不能书写错误。\n#判断\ni=6\nif i &lt;5:\n    print (\"i is less than 5!\")\nelif(i==5):\n    print (\"i is equal to 5!\")\nelse:\n    print (\"i is more than 5!\")",
+    "crumbs": [
+      "第八章 python",
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>8.8 判断</span>"
+    ]
+  },
+  {
+    "objectID": "source/8-python/py8.html#循环判断",
+    "href": "source/8-python/py8.html#循环判断",
+    "title": "19  8.8 判断",
+    "section": "19.3 循环+判断",
+    "text": "19.3 循环+判断\n\n19.3.1 循环控制\n如果不想让循环全部结束，可以加入循环控制，在python中，可以在循环中加入break终止循环，continue继续执行循环。\n# break终止循环\nfor i in range(10):\n    if i == 7:\n        break\n    print(\"The Number is :\" , i)\n\n#continue 跳过循环\nfor i in range(10):\n    if i == 7:\n        continue\n    print(\"The Number is :\" , i)\n\n#挑选奇数\ni = 0\n\nwhile i &lt; 10:\n    i += 1\n    if i %2 ==0:\n        continue\n    print(i)",
+    "crumbs": [
+      "第八章 python",
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>8.8 判断</span>"
+    ]
+  },
+  {
+    "objectID": "source/8-python/py9.html",
+    "href": "source/8-python/py9.html",
+    "title": "20  8.9 循环+判断案例",
+    "section": "",
+    "text": "20.1 案例一:循环加判断",
+    "crumbs": [
+      "第八章 python",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>8.9 循环+判断案例</span>"
+    ]
+  },
+  {
+    "objectID": "source/8-python/py9.html#案例一循环加判断",
+    "href": "source/8-python/py9.html#案例一循环加判断",
+    "title": "20  8.9 循环+判断案例",
+    "section": "",
+    "text": "# 案例一:循环加判断\nfor i in range(0,10):\n    if i &lt;5:\n        print (i,\"less\")\n    elif (i==5):\n        print (i,\"equal\")\n    else:\n       print (i,\"more\")",
+    "crumbs": [
+      "第八章 python",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>8.9 循环+判断案例</span>"
+    ]
+  },
+  {
+    "objectID": "source/8-python/py9.html#案例二计算数字值",
+    "href": "source/8-python/py9.html#案例二计算数字值",
+    "title": "20  8.9 循环+判断案例",
+    "section": "20.2 案例二：计算数字值",
+    "text": "20.2 案例二：计算数字值\nalist = [1, 'A', 2, 'B', 3, 'C', 4, 'D', 5, 'E', 6, 'F', 7, 'G']\n\ntotal_number = 0\nfor i in alist:\n   if str(i).isnumeric():\n       total_number += i\n\nprint(total_number)",
+    "crumbs": [
+      "第八章 python",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>8.9 循环+判断案例</span>"
+    ]
+  },
+  {
+    "objectID": "source/8-python/py9.html#案例三判断是否存在",
+    "href": "source/8-python/py9.html#案例三判断是否存在",
+    "title": "20  8.9 循环+判断案例",
+    "section": "20.3 案例三：判断是否存在",
+    "text": "20.3 案例三：判断是否存在\n#判断是否存在\nmoto_brands = ['bmw', 'benz', 'audi', 'byd', 'toyota', 'volvo','honda', 'ford', 'bentley', 'chery', 'gwm', 'nissan']\nluxury_brands = ['rolls-royce', 'bentley', 'benz', 'bmw', 'audi', 'volvo']\n\nfor i in moto_brands:\n    if i in luxury_brands:\n        print(f'{i} is a luxury car brands')\n\n# 去除大小写的影响\nmoto_brands = ['BMW', 'Benz', 'Audi', 'BYD', 'Toyota', 'Volvo','Honda', 'Ford', 'Bentley', 'Chery', 'GMW', 'nissan']\nluxury_brands = ['rolls-royce', 'bentley', 'benz', 'bmw', 'audi', 'volvo']\n\nfor i in moto_brands:\n    for j in luxury_brands:\n        if i.lower() == j.lower():\n            print(f'{i} is a luxury car brands')\n方法二，提前修改数组\nmoto_brands = ['BMW', 'Benz', 'Audi', 'BYD', 'Toyota', 'Volvo','Honda', 'Ford', 'Bentley', 'Chery', 'GMW', 'nissan']\nluxury_brands = ['rolls-royce', 'bentley', 'benz', 'bmw', 'audi', 'volvo']\n\nmoto_brands = [i.lower() for i in moto_brands]\nluxury_brands = [i.lower() for i in luxury_brands]\n\nfor i in moto_brands:\n    if i in luxury_brands:\n        print(f'{i} is a luxury car brands')\n获取用户输入\nluxury_brands = ['rolls-royce', 'bentley', 'benz', 'bmw', 'audi', 'volvo']\nluxury_brands = [i.lower() for i in luxury_brands]\n\nprint(f\"Please Enter a Car Brand:\")\nmy_input = input()\nif my_input.lower() in luxury_brands:\n    print(f'{my_input} is a luxury car brands')\nelse:\n    print(f'{my_input} is not a luxury car brands')",
+    "crumbs": [
+      "第八章 python",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>8.9 循环+判断案例</span>"
+    ]
+  },
+  {
+    "objectID": "source/9-rbase/r1.html",
+    "href": "source/9-rbase/r1.html",
+    "title": "21  9.1 R语言简介",
+    "section": "",
+    "text": "21.1 R语言简介\nR语言是一款统计软件，R语言也是一门编程语言，R语言也是一个数据分析平台。R是一个免费自由跨平台通用的统计计算与绘图软件，它有 Windows、Mac、Linux 等版本，均可免费下载使用。\nR 项目(The R Project for Statistical Computing)最早由新西兰奥克兰大学(Auckland University)的Robert Gentleman(1959-)和Ross Ihaka(1954-) 开发，故软件取两人名字的首字母命名为 R 。\n​\n图 1 Robert Gentleman和Ross Ihaka\n该项目始于1993年，2000年发布了首个官方版本 R 1.0.0 ，后期维护由 R 核心团队(R Core Team)负责。截止2022年，已发布到 4.2 版本。凭借其开源、免费、自由等开放式理念，R 迅速获得流行，目前已成为学术研究和商业应用领域最为常用的数据分析软件之一。随着大数据行业的发展，R语言变得越来越流行，R语言发挥了越来越重要的作用。",
+    "crumbs": [
+      "第九章 R语言",
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>9.1 R语言简介</span>"
+    ]
+  },
+  {
+    "objectID": "source/9-rbase/r1.html#r语言应用",
+    "href": "source/9-rbase/r1.html#r语言应用",
+    "title": "21  9.1 R语言简介",
+    "section": "21.2 R语言应用",
+    "text": "21.2 R语言应用\n1、数据计算\n用来计算数据\n2、统计检验\n分组进行检验，例如t检验，卡方检验等；\n3、统计建模\n​ 文献中公式\n4、数据挖掘\n​ 聚类，分类\n5、数据可视化\n​ 科学文献绘图",
+    "crumbs": [
+      "第九章 R语言",
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>9.1 R语言简介</span>"
+    ]
+  },
+  {
+    "objectID": "source/9-rbase/r1.html#r语言优缺点",
+    "href": "source/9-rbase/r1.html#r语言优缺点",
+    "title": "21  9.1 R语言简介",
+    "section": "21.3 R语言优缺点",
+    "text": "21.3 R语言优缺点\nR语言的优点：\n开源、免费，具有完整的统计学功能，有大量的扩展包；\n\n有效的数据处理和保存机制；\n拥有一整套数组和矩阵的操作运算符；\n一系列连贯而又完整的数据分析中间工具；\n图形统计可以对数据直接进行分析和显示，可用于多种图形设备；\n一种相当完善、简洁和高效的程序设计语言；\nR语言是彻底面向对象的统计编程语言；\nR语言和其它编程语言、数据库之间有很好的接口；\nR语言是自由软件，可以放心大胆地使用，但其功能却不比任何其它同类软件差；\nR语言具有丰富的网上资源。",
+    "crumbs": [
+      "第九章 R语言",
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>9.1 R语言简介</span>"
+    ]
+  },
+  {
+    "objectID": "source/9-rbase/r1.html#r语言的缺点",
+    "href": "source/9-rbase/r1.html#r语言的缺点",
+    "title": "21  9.1 R语言简介",
+    "section": "21.4 R语言的缺点",
+    "text": "21.4 R语言的缺点\n\n开源、免费，具有完整的统计学功能，有大量的扩展包；\n学习成本大；\n不擅长处理非结构数据；\n计算消耗资源较多；\nR的扩展包太多了，比较混乱，不容易找到适合的扩展包；\n不擅长多线程处理。",
+    "crumbs": [
+      "第九章 R语言",
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>9.1 R语言简介</span>"
+    ]
+  },
+  {
+    "objectID": "source/9-rbase/r1.html#r语言与excel对比",
+    "href": "source/9-rbase/r1.html#r语言与excel对比",
+    "title": "21  9.1 R语言简介",
+    "section": "21.5 R语言与Excel对比",
+    "text": "21.5 R语言与Excel对比\n\nR语言开源免费，Excel收费；\nR语言支持Linux版本，Excel只支持windows，macos，ios，Android；\n能够计算大数据，Excel默认只能处理100万行数据；\nR语言有更好扩展能力，有很多现成的包；\nR语言有更好的绘图能力，例如可以很方便绘制热图，基因组圈图等复杂图形；\nR语言的Bioconductor项目可以处理生物数据，例如基因表达数据，单细胞测序等；\nR语言学习成本较大，不如Excel简单。",
+    "crumbs": [
+      "第九章 R语言",
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>9.1 R语言简介</span>"
+    ]
+  },
+  {
+    "objectID": "source/9-rbase/r1.html#r语言与python对比",
+    "href": "source/9-rbase/r1.html#r语言与python对比",
+    "title": "21  9.1 R语言简介",
+    "section": "21.6 R语言与Python对比",
+    "text": "21.6 R语言与Python对比\n数据分析的六个过程包括数据采集、数据存储、统计分析、数据挖掘、数据可视化以及生成报告。\n\nR语言具有更强大的统计学功能；\nR语言的Bioconductor项目可以处理生物数据，例如基因表达数据，单细胞测序等；\nR语言的绘图能力更强，尤其是ggplot2包；\nR不擅长字符串处理；\nR更消耗内存；\npython功能更强大，可以完成大的编程项目；\npython具有更强大的文本处理能力；\npython资源管理更好，R不擅长多线程计算，更消耗资源；\npython擅长字符串处理；\npython擅长深度学习；",
+    "crumbs": [
+      "第九章 R语言",
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>9.1 R语言简介</span>"
+    ]
+  },
+  {
+    "objectID": "source/9-rbase/r2.html",
+    "href": "source/9-rbase/r2.html",
+    "title": "22  9.2 R分析环境搭建",
+    "section": "",
+    "text": "22.1 R软件安装\nR语言支持windows，macos，linux等多个系统平台，提供图形化界面，下载和安装都不难，可以直接从官网进行下载。R语言平均每半年更新一个比较大的版本，中间也会有一些小版本，建议安装最新的版本。可以从R的官网下载软件安装包，此外，微软也提供一个版本的R软件，微软版本的R提供一些额外功能，例如对多线程支持更好。\n安装建议:\nR官网：&lt; https://www.r-project.org/&gt;\nMicrosoft R：https://mran.microsoft.com/\n（截止到2023年5月，R最新版本为4.3.0）\n​\n图 1 R语言官网",
+    "crumbs": [
+      "第九章 R语言",
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>9.2 R分析环境搭建</span>"
+    ]
+  },
+  {
+    "objectID": "source/9-rbase/r2.html#r软件安装",
+    "href": "source/9-rbase/r2.html#r软件安装",
+    "title": "22  9.2 R分析环境搭建",
+    "section": "",
+    "text": "R和Rstudio建议安装最新版本；\n选择最近的镜像地址；\n检查用户名是否为中文，Rstudio不支持中文；\n先安装R，在安装Rstudio；\n软件安装到系统默认目录下；\n如果有需要，安装Rtools；\n苹果电脑Arm芯片需要选择合适的版本。\n\n\n\n\n\n\n\n22.1.1 windows系统：\nR下载地址：https://cloud.r-project.org/bin/windows/base/R-4.3.2-win.exe\nRtools下载地址：https://cloud.r-project.org/bin/windows/Rtools/rtools43/files/rtools43-5863-5818.exe\n\n\n22.1.2 Mac系统\nMac R：https://cloud.r-project.org/bin/macosx/big-sur-x86_64/base/R-4.3.2-x86_64.pkg\nMac arm芯片：https://cloud.r-project.org/bin/macosx/big-sur-arm64/base/R-4.3.2-arm64.pkg",
+    "crumbs": [
+      "第九章 R语言",
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>9.2 R分析环境搭建</span>"
+    ]
+  },
+  {
+    "objectID": "source/9-rbase/r2.html#rstudio软件安装",
+    "href": "source/9-rbase/r2.html#rstudio软件安装",
+    "title": "22  9.2 R分析环境搭建",
+    "section": "22.2 Rstudio软件安装",
+    "text": "22.2 Rstudio软件安装\n\n22.2.1 安装Rstudio\n当前R语言的集成开发环境很多，但其中Rstudio可以说是最优秀的，Rstudio是R软件的一个集成开发环境，为R的使用提供了极大的便利，Rstudio本身并不集成R软件，需要首先安装R软件，Rstudio会调用R软件。Rstudio支持windows，macos，Linux等多个系统平台，并且提供免费的桌面版与服务器版本可供选择，服务器版本可以搭建多用户使用场景，直接通过网络浏览器访问R。此外，Rstudio公司还开发了大量R语言的扩展包，操作简单，功能强大，极大扩展了R语言的功能。目前Rstudio公司已改名Posit。\n官方网站：https://posit.co/\n下载地址：https://posit.co/download/rstudio-desktop/\nwindows：https://download1.rstudio.org/electron/windows/RStudio-2023.09.1-494.exe\nmacos：https://download1.rstudio.org/electron/macos/RStudio-2023.09.1-494.dmg\n​ \n图 2 Posit官网",
+    "crumbs": [
+      "第九章 R语言",
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>9.2 R分析环境搭建</span>"
+    ]
+  },
+  {
+    "objectID": "source/9-rbase/r2.html#登录rstudio-server",
+    "href": "source/9-rbase/r2.html#登录rstudio-server",
+    "title": "22  9.2 R分析环境搭建",
+    "section": "22.3 登录rstudio-server",
+    "text": "22.3 登录rstudio-server\nRstudio提供一个rstudio-server服务器端程序，可以通过浏览器访问Rstudio环境。如果是系统管理员，可以安装rstudio-server服务，默认版本的Rstudio-server只支持一个版本的R。每个用户只能使用管理员设定的R版本。无法将自己安装的R语言软件在网页端使用，请知悉这点。但可以自己安装R扩展包。\n通过浏览器，例如Chrome，Firefox，Safari等均可，尽量别使用IE以及360浏览器，可能会登录失败。rstudio-server默认端口号为8787，只需在IP地址之后加上端口号即可，账户密码与SSH登录账号一样。\n​ \n图 3 登录R语言环境\n输入账户密码，与登录服务器账户密码相同。登录之后就可以使用Rstudio了。\n\n\n\nimage-20240220085656985\n\n\n图 4 在网页端使用R语言",
+    "crumbs": [
+      "第九章 R语言",
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>9.2 R分析环境搭建</span>"
+    ]
+  },
+  {
+    "objectID": "source/9-rbase/r3.html",
+    "href": "source/9-rbase/r3.html",
+    "title": "23  9.3 免费R分析环境",
+    "section": "",
+    "text": "posit（原 Rstudio）公司提供了云服务 posit cloud，是一个在线的 Rstudio 与 Jupyter 环境。 并且有免费版。\n目前 posit cloud 提供四个订阅计划可供选择，有免费版，提供 1 个 1G 内存，1 个 CPU，可 创建 50 个项目，每月计算时间为 25 个小时。每月 5 美元版本配置一样，只不过每个月提供 75 小时使用，超过部分每小时 10 美分。教学版本 15 元每个月，提供 16GB 内存以及 4个 CPU，每个月 300 小时计算时长。高级版本每个月 99 美元，对于学术用户，非营利组织， 中小企业，发展中国家可以提供折扣。\n\n\n\nimage-20240220085749661\n\n\n​\n图 1 Posit Cloud 价格表\n登录 posit 网站，选择登录方式，可以使用自己邮箱注册，也可以选择 google，github 等账 号直接登录。\n网站地址：https://posit.cloud/\n创建一个 Rstudio 项目，接下来就可以轻松使用 R了。只有 1G内存，并且只有25小时时长， 我们使用它主要用来做测试，在这里安装R包非常快速。也可以完成一些简单计算。使用体 验还是非常好的。如果一个环境出问题，可以重新创建一个新的项目，不同项目之间无干扰。\n\n\n\nimage-20240220085801439\n\n\n图2 通过Posit Cloud运行 R\n直接导入 github项目：\n​ \n图3 直接导入 github 项目\nhttps://github.com/wangtong/RinAction3\nhttps://github.com/hadley/r4ds\n图6直接导入 github 项目",
+    "crumbs": [
+      "第九章 R语言",
+      "<span class='chapter-number'>23</span>  <span class='chapter-title'>9.3 免费R分析环境</span>"
+    ]
+  },
+  {
+    "objectID": "source/9-rbase/r4.html",
+    "href": "source/9-rbase/r4.html",
+    "title": "24  9.4 开始使用R",
+    "section": "",
+    "text": "24.1 设置工作目录\n使用R语言的第一个过程就是设置工作目录，使用R语言经常需要读写文件，设置好工作目录可以方便读写文件。需要对不同系统目录的写法有所了解，windows目录结构与Linux目录结构主要差别在两点：第一，Linux系统不存在盘符，所有数据路径都是有“/”开始；第二：Linux系统采用正斜线分割目录，windows采用反斜线分割目录。在R中可以使用正斜线。另外，Rstudio目前对中文支持并不好，目录中最好不要有中文，否则会报错。\nwindows系统目录结构：“C:/Users/xxx/Desktop/”\nmacos系统目录结构：/Users/xxx/Desktop/\nLinux系统目录结构：“/home/xxx/”\n方法一：Crtl+Shift+H快捷键\n​\n图 1 通过菜单设置工作目录\n方法二：使用鼠标\n图 2 通过文件管理窗口设置工作目录\n方法三：使用R函数",
+    "crumbs": [
+      "第九章 R语言",
+      "<span class='chapter-number'>24</span>  <span class='chapter-title'>9.4 开始使用R</span>"
+    ]
+  },
+  {
+    "objectID": "source/9-rbase/r4.html#设置工作目录",
+    "href": "source/9-rbase/r4.html#设置工作目录",
+    "title": "24  9.4 开始使用R",
+    "section": "",
+    "text": "image-20240220090043101\n\n\n\n\ngetwd() \nsetwd(\"c:/Users/xxx/Desktop/\")",
+    "crumbs": [
+      "第九章 R语言",
+      "<span class='chapter-number'>24</span>  <span class='chapter-title'>9.4 开始使用R</span>"
+    ]
+  },
+  {
+    "objectID": "source/9-rbase/r4.html#创建project",
+    "href": "source/9-rbase/r4.html#创建project",
+    "title": "24  9.4 开始使用R",
+    "section": "24.2 创建Project",
+    "text": "24.2 创建Project\n创建Project可以将所有数据放到一个目录下，R的Project会保存分析过程中全部内容，方便管理以及分享。\n\n\n\nimage-20240220090124643\n\n\n图 3 创建R Projetc\nRstdudio目前支持多种项目，包括一个全新的项目，也可以从一个包含数据的目录作为项目目录，也可以将一个github项目克隆到本地。\n\n\n\nimage-20240220090133180\n\n\n图4 选择合适的项目类型\n新建Rstudio项目可以包含多种类型，包括数据分析，R包，shiny应用，quarto等，选择不同的类型会提供不同的模板数据。\n\n\n\nimage-20240220090142922\n\n\n图 5 rstudio导入github项目\n可以直接将github项目导入Rstudio中。\nhttps://github.com/wangtong/RinAction3\nhttps://github.com/hadley/r4ds\nR软件有交互式与脚本式运行两种方式，交互式便于进行数据探索，脚本式便于批量化和自动化处理。",
+    "crumbs": [
+      "第九章 R语言",
+      "<span class='chapter-number'>24</span>  <span class='chapter-title'>9.4 开始使用R</span>"
+    ]
+  },
+  {
+    "objectID": "source/9-rbase/r4.html#交互式运行",
+    "href": "source/9-rbase/r4.html#交互式运行",
+    "title": "24  9.4 开始使用R",
+    "section": "24.3 交互式运行",
+    "text": "24.3 交互式运行\n在R的交互式运行中，默认的命令行提示符为大于号”&gt;”，需要在英文状态下运行，也就是半角模式。输入要使用你的函数，然后按回车运行，如果命令正确，返回结果。当命令错误时，会返回错误提示，有些情况下会提示警告信息。当一条命令不完整时，会出现二级命令行提示符加号“+”，这种情况下需要将命令补齐完整。可以随时使用ESC键终止操作。\ndir() \n\na &lt;- 1 \nb &lt;- 2 \nc &lt;- a+b \nc \nprint(c) \n1.02 ** 365 \n0.98 ** 365 \nls() \nrm(a) \n从R 4.1.0版本开始，R语言新增了对管道的支持，管道符号为“|&gt;”，可以将多个函数结合使用。在Rstudio中，通过快捷键Ctrl + Shift + 可以输出该符号。\nmtcars |&gt; head()",
+    "crumbs": [
+      "第九章 R语言",
+      "<span class='chapter-number'>24</span>  <span class='chapter-title'>9.4 开始使用R</span>"
+    ]
+  },
+  {
+    "objectID": "source/9-rbase/r4.html#脚本式运行",
+    "href": "source/9-rbase/r4.html#脚本式运行",
+    "title": "24  9.4 开始使用R",
+    "section": "24.4 脚本式运行",
+    "text": "24.4 脚本式运行\n脚本方式运行中，创建一个扩展名为.R的文件，例如test.R可以在Rstudio脚本窗口中一条条运行，也可以一起全部运行。在windows或者macos系统中，可以使用source命令运行整个脚本。\n\n\n\nimage-20240220090305882\n\n\n图 6 运行R脚本\n在Linux命令行中，可以使用Rscript命令运行脚本文件，或者使用R -f来运行，当计算量较大，需要较长的运算时，或者可重复性计算等条件下。需要使用无监督的脚本式运行。在使用脚本运行R时，需要保证脚本能够正确执行，通常先使用小数据进行测试，并且运行过程中将结果及时保存为文件，例如绘制出的图片，而不是交互式显示。R脚本也可以提供选项参数，将R脚本转换为一个可执行程序。\n#运行R 脚本\n\nRscript test.R\n\nR -f test.R\n\n#运行R程序\n\npafCoordsDotPlotly.R -i CANU.paf -o output -l -p 10 -k 5",
+    "crumbs": [
+      "第九章 R语言",
+      "<span class='chapter-number'>24</span>  <span class='chapter-title'>9.4 开始使用R</span>"
+    ]
+  },
+  {
+    "objectID": "source/9-rbase/r4.html#rmarkdown文本",
+    "href": "source/9-rbase/r4.html#rmarkdown文本",
+    "title": "24  9.4 开始使用R",
+    "section": "24.5 RMarkdown文本",
+    "text": "24.5 RMarkdown文本\nRmarkdown可以为基于R语言的数据分析提供一种统一的协作框架，可以集成代码、输出结果和文本注释。目前Rmarkdown已经升级为Quarto。\nQuarto是目前最流行的开源出版系统。它是Rmarkdown的升级版。使用Quarto可以进行分析，贡献，重现结果。\nQuarto使用Pandoc Markdown进行编写文档，包括方程式、引用、交叉应用，图形、标注，高级布局等都可以在一个文档中完成。\nQuarto可以生成HTML、PDF、MS Word、ePub 等格式文档、演示文稿、网站、博客和书籍。\n\n\n\nimage-20240220090351166\n\n\n图 7 Quarto生成报告",
+    "crumbs": [
+      "第九章 R语言",
+      "<span class='chapter-number'>24</span>  <span class='chapter-title'>9.4 开始使用R</span>"
+    ]
+  },
+  {
+    "objectID": "source/9-rbase/r5.html",
+    "href": "source/9-rbase/r5.html",
+    "title": "25  9.5 函数",
+    "section": "",
+    "text": "25.1 R语言函数\n学习R语言的本质就是学习R函数的过程，因为在R中，每一步操作都需要使用R的函数。在R语言中，每个R函数都需要后面介绍小括号，这是为了与环境中的变量区分开。比如定义一个名为data的变量，R中还自带一个data函数，这样就无法区分，因此，R函数需要接上小括号，例如data()函数。R中需要使用选项参数，用来调节R函数的功能。选项和参数之间用等号连接。不同选项后面接不同的参数，例如有的选项接数值参数，有的接字符串，有的接逻辑值。例如下面的案例。\n其中plot()为绘图函数，后面必须是小括号；\nx选项为输入x轴的值，接一个向量；\ny选项为输入y轴的值，接一个向量；\ncol选项为颜色值，接一个字符串；\npch选项为点的性状，接一个数值向量；\nann选项为是否显示标签，接一个逻辑值；",
+    "crumbs": [
+      "第九章 R语言",
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>9.5 函数</span>"
+    ]
+  },
+  {
+    "objectID": "source/9-rbase/r5.html#r语言函数",
+    "href": "source/9-rbase/r5.html#r语言函数",
+    "title": "25  9.5 函数",
+    "section": "",
+    "text": "#一条典型的R函数\n\nplot(x = women$height,y = women$weight,col=\"red\",pch=c(16,17,18),ann = F)",
+    "crumbs": [
+      "第九章 R语言",
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>9.5 函数</span>"
+    ]
+  },
+  {
+    "objectID": "source/9-rbase/r5.html#游戏测试计算机算力",
+    "href": "source/9-rbase/r5.html#游戏测试计算机算力",
+    "title": "25  9.5 函数",
+    "section": "25.2 4.2游戏：测试计算机算力",
+    "text": "25.2 4.2游戏：测试计算机算力\n随机生成十万，百万，千万，亿，十亿个随机数，然后利用R进行求和计算。\n\\#十万随机数\n\nx &lt;- runif(100000,min = 1,max = 100) \nlength(x) \nsum(x) \n\n\\#百万随机数\n\nx &lt;- runif(1000000,min = 1,max = 100) \nsum(x) \n\n\\#千万随机数\n\nx &lt;- runif(10000000,min = 1,max = 100) \nsum(x) \nx &lt;- runif(100000000,min = 1,max = 100) \nsum(x) \n\n\\#更多",
+    "crumbs": [
+      "第九章 R语言",
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>9.5 函数</span>"
+    ]
+  },
+  {
+    "objectID": "source/9-rbase/r5.html#r语言括号",
+    "href": "source/9-rbase/r5.html#r语言括号",
+    "title": "25  9.5 函数",
+    "section": "25.3 R语言括号",
+    "text": "25.3 R语言括号\n括号按照性状可以分为小括号，中括号以及大括号，大括号也叫作花括号。在R语言中，各种括号实现不同的功能。其中小括号具有重要作用。\nR是函数式编程语言，所有的功能都需要通过函数完成。在R中，为了区分字符，变量，数据集，函数以及扩展包，所以函数后面必须接小括号。例如sum三个字符，如果要表示一个字符，就使用双引号，如果表示求和函数，作为sum()，如果作为一个变量，数据集，直接写sum即可。如果代表一个R包，则直接library加载即可。\n中括号在R中也有重要作用，数据索引时要用到。\n花括号与其他编程语言类似，都表示一个代码块，用在自定义R函数中。\n**总结：**\n\n小括号：R函数\n中括号：数据索引\n大括号：代码块",
+    "crumbs": [
+      "第九章 R语言",
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>9.5 函数</span>"
+    ]
+  },
+  {
+    "objectID": "source/9-rbase/r5.html#r语言提示警告以及错误",
+    "href": "source/9-rbase/r5.html#r语言提示警告以及错误",
+    "title": "25  9.5 函数",
+    "section": "25.4 R语言提示警告以及错误",
+    "text": "25.4 R语言提示警告以及错误\n正确区分软件错误，R语言在运行过程中会输出很多信息，这些信息主要包括三类，分别是：\n\n运行状态信息，正常信息，不用担心；\n警告信息warnings，不影响软件运行，需要注意；\n错误信息Error，软件终止运行，需要检查错误；",
+    "crumbs": [
+      "第九章 R语言",
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>9.5 函数</span>"
+    ]
+  },
+  {
+    "objectID": "source/9-rbase/r6.html",
+    "href": "source/9-rbase/r6.html",
+    "title": "26  9.6 常用快捷键以及自定义环境",
+    "section": "",
+    "text": "26.1 常用快捷键\n下面列出R或者Rstudio中一些常用快捷键:\n1. alt+-\nR语言的赋值使用“&lt;-”，每次需要敲两个字符，非常麻烦，在Rstudio中可以使用“alt+-”直接生成，非常方便，如果使用右侧alt键，更加容易。\n2. ctrl+shfit+h\n使用R第一件事情就是设置工作目录，如果不习惯敲setwd或者不熟悉系统目录结构，可以使用该快捷键直接用鼠标选择。\n3. esc\n中断程序，非常有用。\n4. tab\ntab自动补齐，可以补齐函数，选项参数等；\n5. ctrl+L\n相当于清屏，与Linux一致。\n6.上下箭头\n历史记录；\n7. ctrl+sfhit+F10\n重新启动R，有些情况下需要重新启动R，这个时候无需关闭整个Rstudio，使用该快捷键即可重新启动R。\n8. ctrl+r\nctrl+r快捷键可以快速调出使用过的历史记录，如果有些命令太长，使用这个快捷键非常方便。\n9. ctrl+向上\n也是快速调出历史记录，与ctrl+r类似。\n10. ctrl++，ctrl+-\n调整字体大小。\n11. ctrl+shift+m\n如果使用tidyverse系列包，经常需要使用管道符“&gt;|”，使用该快捷键可以直接输出管道符。\n12. alt+shift+k\n可以快速调出所有快捷键列表。",
+    "crumbs": [
+      "第九章 R语言",
+      "<span class='chapter-number'>26</span>  <span class='chapter-title'>9.6 常用快捷键以及自定义环境</span>"
+    ]
+  },
+  {
+    "objectID": "source/9-rbase/r6.html#自定义r环境",
+    "href": "source/9-rbase/r6.html#自定义r环境",
+    "title": "26  9.6 常用快捷键以及自定义环境",
+    "section": "26.2 自定义R环境",
+    "text": "26.2 自定义R环境\nR语言可以通过自定义修改默认行为，例如修改默认提示符，修改默认镜像地址，修改默认加载包目录，默认有效数字位数，启动后自动加载包等。 R每次启动时，会从默认目录下（windows系统一般为我的文档）读取.Rpofile文件，对R的自定义，就是修改该配置文件。这个默认配置文件类似于Linux系统家目录下的.bashrc文件。 创建配置文件\n#通过file.edit()函数创建文件\nfile.edit(\"~/.Rprofile\")\n然后在配置文件中开始设置即可，首先可以修改提示符，测试是否有效。\n#修改提示符\n#options(prompt=\"$\")\n#修改次级提示符\n#options (continue=\"+\")\n重启R，测试提示符是否有变化。 下面配置用来修改默认镜像。\n#修改默认包加载目录\n#.libPaths(\"/home/wangtong/R/x86_64-redhat-linux-gnu-library/\")\n.libPaths(\"C:/Users/genom/Documents/R/win-library/3.5/\")\n#修改默认R镜像\noptions(repos=\"https://mirror.lzu.edu.cn/CRAN/\")\n#修改bioconductor镜像\noptions(BioC_mirror=\"http://mirrors.ustc.edu.cn/bioc/\")\n有一些包每次都需要使用，如果每次都要手动加载比较麻烦，可以直接添加到启动函数中。\n#启动加载函数\n.First &lt;- function() {\n# library(BioCManager,quietly = TRUE)\ncat (\"\\nWelcome at\",date(),\"\\n\")\n#加载默认R包\n# library(tidyverse,quietly = TRUE)\n}\n\n.Last &lt;- function() {\ncat (\"\\nGoodbye at \",date(),\"\\n\")\n}",
+    "crumbs": [
+      "第九章 R语言",
+      "<span class='chapter-number'>26</span>  <span class='chapter-title'>9.6 常用快捷键以及自定义环境</span>"
+    ]
+  },
+  {
+    "objectID": "source/9-rbase/r7.html",
+    "href": "source/9-rbase/r7.html",
+    "title": "27  9.7 R语言包管理",
+    "section": "",
+    "text": "27.1 1 如何选择合适的R包\n1通过R TaskView查找需要的软件包，根据大类查找。\n网址：https://cran.rstudio.com/web/views/\n​\n图 1 R taskview\n2 阅读文献，参考里面使用的R包。\n3 bioconductor项目\nBioconductor 是建立在R语言环境上的，用于生物信息数据的注释、处理、分析及可视化工具包的总集，由一系列R扩展包组成。很多生物数据都是使用bioconductor包来分析的。 Bioconductor官网：http://www.bioconductor.org/\n4、bing搜索\n图 2 通过bing搜索关键字",
+    "crumbs": [
+      "第九章 R语言",
+      "<span class='chapter-number'>27</span>  <span class='chapter-title'>9.7 R语言包管理</span>"
+    ]
+  },
+  {
+    "objectID": "source/9-rbase/r7.html#如何选择合适的r包",
+    "href": "source/9-rbase/r7.html#如何选择合适的r包",
+    "title": "27  9.7 R语言包管理",
+    "section": "",
+    "text": "image-20240221075306989",
+    "crumbs": [
+      "第九章 R语言",
+      "<span class='chapter-number'>27</span>  <span class='chapter-title'>9.7 R语言包管理</span>"
+    ]
+  },
+  {
+    "objectID": "source/9-rbase/r7.html#r包的管理",
+    "href": "source/9-rbase/r7.html#r包的管理",
+    "title": "27  9.7 R语言包管理",
+    "section": "27.2 2 R包的管理",
+    "text": "27.2 2 R包的管理\n由于不用R包之间存在相互依赖的关系，因此，强烈推荐采用在线安装的方式，这样软件可以自动解决依赖关系问题，节约大量时间。R默认的服务器在国外，为了加快下载速度，需要将R镜像站点修改为国内镜像站点。也可以使用Rstudio官方镜像。\nhttps://packagemanager.posit.co/client/#/\n\n27.2.1 2.1 R包默认安装到以下目录\nR包的默认安装路径与登录账号是否为管理员有关，如果登录的为管理员账号，则默认安装到R安装目录下。如果登录的为普通账户，则在每个账号下的我的文档中。\n#windows系统：\n[1] \"C:/Users/genom/AppData/Local/R/win-library/4.3\"\n[2] \"C:/Program Files/R/R-4.3.1/library\"\n#macos系统：\n/Library/Frameworks/R.framework/Versions/4.3/Resources/library\n#Linux系统：\n/usr/local/lib64/R/library/\n~/R/x86_64-pc-linux-gnu-library/4.3/\n\n#查看R包安装目录\n.libPaths()\n.Library\n.Library.site\n\n\n27.2.2 2.2 设置镜像\n通过网络安装R包，网络速度影响比较大，因此要选择合适的镜像，一般选择距离较近的镜像。也可以使用Rstudio官方镜像，可以通过Rstudio修改镜像站点。\n\n\n\nimage-20240221075357984\n\n\n图3 修改R镜像\n也可以通过R函数修改默认镜像。\nchooseCRANmirror()  \nchooseBioCmirror()\nsetRepositories()\n常用R镜像站点\nCRAN站点：\nhttps://mirrors.tuna.tsinghua.edu.cn/CRAN/\nhttps://mirrors.ustc.edu.cn/CRAN/\nBioconductor镜像：\nhttps://mirrors.ustc.edu.cn/bioc/\nhttps://mirrors.tuna.tsinghua.edu.cn/bioconductor/\ngithub: https://github.com/",
+    "crumbs": [
+      "第九章 R语言",
+      "<span class='chapter-number'>27</span>  <span class='chapter-title'>9.7 R语言包管理</span>"
+    ]
+  },
+  {
+    "objectID": "source/9-rbase/r8.html",
+    "href": "source/9-rbase/r8.html",
+    "title": "28  9.8 安装R包",
+    "section": "",
+    "text": "28.1 1 install.package()函数\npkgs：函数名，需要使用双引号\nlib：安装目录，需要使用双引号\nrepos ：软件镜像，默认为getOption(“repos”)\ncontriburl ：备用镜像，当repos不完整时起作用\nmethod：下载方式，通过libcurl或者wininet，wget，curl等available = NULL, destdir：安装包下载存储地址，默认设置\ndependencies ：是否设置依赖，默认不设置\ntype ：包类型，源代码还是编译好的二进制版本，通过getOption(“pkgType”)查看\nquite：安静安装\nNcpus：多线程安装",
+    "crumbs": [
+      "第九章 R语言",
+      "<span class='chapter-number'>28</span>  <span class='chapter-title'>9.8 安装R包</span>"
+    ]
+  },
+  {
+    "objectID": "source/9-rbase/r8.html#r包管理函数",
+    "href": "source/9-rbase/r8.html#r包管理函数",
+    "title": "28  9.8 安装R包",
+    "section": "28.2 2 R包管理函数",
+    "text": "28.2 2 R包管理函数\n#安装vcd包\ninstall.packages(\"vcd\")\n#一次安装多个包\ninstall.packages(c(\"ggplot2\",\"pheatmap\")) \n#查看已安装的包\ninstalled.packages()\n\n#加载R包\nlibrary(vcd)\nrequire(vcd)\n\n#升级软件包\nupdate.packages()\n\n#删除扩展包，从磁盘中移除\nremove.packages(\"vcd\")\n\n#取消加载，从内存中移除\ndetach(\"package:vcd\")\n\n#其余函数\n#列出R包中的函数\nls(package:base)\n#加载包中的数据集\ndata(package=\"vcd\")\n\n#查看当前环境哪些包加载\nfind.package()\npath.package()\n#查看当前环境哪些包加载\nfind.package()\npath.package()\n\nsearch()\n#列出当前包\n(.packages())\n#列出有效包\n(.packages(all.available=TRUE)) \npath.package() #列出加载包的路径",
+    "crumbs": [
+      "第九章 R语言",
+      "<span class='chapter-number'>28</span>  <span class='chapter-title'>9.8 安装R包</span>"
+    ]
+  },
+  {
+    "objectID": "source/9-rbase/r8.html#安装指定版本r包",
+    "href": "source/9-rbase/r8.html#安装指定版本r包",
+    "title": "28  9.8 安装R包",
+    "section": "28.3 3安装指定版本R包",
+    "text": "28.3 3安装指定版本R包\nlibrary(devtools)\ninstall_version(\"ggplot2\", version = \"3.2.1\",repos = \"http://cran.us.r-project.org\")",
+    "crumbs": [
+      "第九章 R语言",
+      "<span class='chapter-number'>28</span>  <span class='chapter-title'>9.8 安装R包</span>"
+    ]
+  },
+  {
+    "objectID": "source/9-rbase/r8.html#github站点r包安装",
+    "href": "source/9-rbase/r8.html#github站点r包安装",
+    "title": "28  9.8 安装R包",
+    "section": "28.4 4 Github站点R包安装",
+    "text": "28.4 4 Github站点R包安装\n一些处于开发中的R包，也会将代码放到github上，放在github站点的R包需要使用单独的install_github()函数进行安装，使用该函数之前，需要先安装devtools包或者remotes包。\n# 安装devtools\ninstall.packages(\"devtools\")\nlibrary(devtools)\n#github在线安装\nif (!require(remotes)) { install.packages(\"remotes\") }\nremotes::install_github(\"fbreitwieser/pavian\")\n有时候github站点无法访问，也可以将需要的R包下载到本地进行安装。\n#下载到本地安装\n#https://codeload.github.com/fbreitwieser/shinyFileTree/zip/refs/heads/master\n#https://codeload.github.com/fbreitwieser/sankeyD3/zip/refs/heads/master\n#https://codeload.github.com/fbreitwieser/pavian/zip/refs/heads/master \n\ninstall_local(\"sankeyD3-master.zip\")\ninstall_local(\"shinyFileTree-master.zip\")\ninstall_local(\"pavian-master.zip\")",
+    "crumbs": [
+      "第九章 R语言",
+      "<span class='chapter-number'>28</span>  <span class='chapter-title'>9.8 安装R包</span>"
+    ]
+  },
+  {
+    "objectID": "source/9-rbase/r8.html#查看帮助文档",
+    "href": "source/9-rbase/r8.html#查看帮助文档",
+    "title": "28  9.8 安装R包",
+    "section": "28.5 5 查看帮助文档",
+    "text": "28.5 5 查看帮助文档\n学习R语言需要经常查看帮助文档，包括R包的帮助文档，查看帮助文档可以快速了解一些函数的用法。不过由于开发者不同，因此帮助文档的水平也参差不齐。查看帮助文档，可以使用help()函数，一般的R函数都会自带案例代码，可以直接使用example()函数运行这些代码。此外，一些R包还提供一种vignette格式的文档。\n#打开帮助页\nhelp()  \n#查看函数帮助\n?ggplot2\n#查看扩展包里函数\n??heatmap  \n#查看包帮助文档\nhelp(package=\"ggplot2\" )  \n#运行函数案例代码\nexample(\"heatmap\")\n#查看vignettes格式文档  \nbrowseVignettes() \n#R网站搜索\nRSiteSearch(\"heatmap\")",
+    "crumbs": [
+      "第九章 R语言",
+      "<span class='chapter-number'>28</span>  <span class='chapter-title'>9.8 安装R包</span>"
+    ]
+  },
+  {
+    "objectID": "source/9-rbase/r8.html#r包迁移",
+    "href": "source/9-rbase/r8.html#r包迁移",
+    "title": "28  9.8 安装R包",
+    "section": "28.6 6 R包迁移",
+    "text": "28.6 6 R包迁移\n\n28.6.1 6.1 直接拷贝R包\nR包一般都是一个完整文件，只需要将R包整个文件夹迁移走，一般就可以运行。对R包进行迁移时，尽量保证R版本一致。直接将整个R包目录拷贝到新的目录下即可。首先找到R包的安装目录，然后将整个目录打包，拷贝到另外一个目录解压缩。\n&gt; .libPaths()\n[1] \"C:/Users/genom/AppData/Local/R/win-library/4.3\"\n[2] \"C:/Program Files/R/R-4.3.1/library\" \n该方法只是一种方案，绝大部分包是可以的。但是注意不能将windows系统安装的迁移到Linux下。该方法也不是万无一失，比如R包需要系统一些配置，缺少了还是无法运行。\n\n\n28.6.2 6.2 获取名字重新安装\n获取要迁移的R包名字列表，在一台设备上使用循环逐个安装。但是该方法无法处理Bioconductor或者github上安装的包。\n#保存A设备上的R包名字列表；\noldip &lt;- installed.packages()[,1]\nsave(oldip,file = \"installedPacckages.Rdata\")\n\n#在B设备上进行安装；\nload(\"installedPacckages.Rdata\")\nnewip &lt;- installed.packages()[,1]\nfor (i in setdiff(oldip,newip)) {\n  install.packages(i)\n}\n\n\n28.6.3 6.3 通过libPaths（）函数\n(base) wangtong 10:24:06 ~\n#使用自己安装的R\n$ /ifs1/Software/biosoft/R-4.3.2/bin/R\n\n#列出当前R包目录，有两个\n&gt; .libPaths()\n[1] \"/home/wangtong/R/x86_64-pc-linux-gnu-library/4.1\"\n[2] \"/ifs1/Software/biosoft/R-4.1.1/library\"    \n#通过new选项增加新的目录      \n&gt; .libPaths(new=\"/ifs1/Software/miniconda3/lib/R/library\")\n#新的目录增加进来了，这样一下子就多了很多包可以使用\n&gt; .libPaths()\n[1] \"/ifs1/Software/miniconda3/lib/R/library\"\n[2] \"/ifs1/Software/biosoft/R-4.3.2/library\" \nnew选项会去掉之前默认的，可以通过在函数中增加一个向量增加多个目录。\n&gt; .libPaths()\n[1] \"/home/wangtong/R/x86_64-pc-linux-gnu-library/4.1\"\n[2] \"/ifs1/Software/biosoft/R-4.1.1/library\"          \n&gt; .libPaths(c(.libPaths(),\"/ifs1/Software/miniconda3/lib/R/library\"))\n&gt; .libPaths()\n[1] \"/home/wangtong/R/x86_64-pc-linux-gnu-library/4.1\"\n[2] \"/ifs1/Software/biosoft/R-4.1.1/library\"          \n[3] \"/ifs1/Software/miniconda3/lib/R/library\"",
+    "crumbs": [
+      "第九章 R语言",
+      "<span class='chapter-number'>28</span>  <span class='chapter-title'>9.8 安装R包</span>"
+    ]
+  },
+  {
+    "objectID": "source/9-rbase/r9.html",
+    "href": "source/9-rbase/r9.html",
+    "title": "29  9.9 Bioconductor",
+    "section": "",
+    "text": "29.1 1 Bioconductor简介\nBioconductor 是建立在R语言环境上的，用于生物信息数据的注释、处理、分析及可视化工具包的总集，由系列R扩展包组成。很多生物数据都是使用bioconductor包来分析的。\nBioconductor官网：http://www.bioconductor.org/\n图 1 Bioconductor项目官网\nbioconductor包能做什么？\nbioconductor包不擅长做什么？\nBioconductor 统计排名：http://bioconductor.org/packages/stats/\nBioconductor workflows：http://www.bioconductor.org/packages/release/BiocViews.html#___Workflow",
+    "crumbs": [
+      "第九章 R语言",
+      "<span class='chapter-number'>29</span>  <span class='chapter-title'>9.9 Bioconductor</span>"
+    ]
+  },
+  {
+    "objectID": "source/9-rbase/r9.html#bioconductor简介",
+    "href": "source/9-rbase/r9.html#bioconductor简介",
+    "title": "29  9.9 Bioconductor",
+    "section": "",
+    "text": "image-20240221080129722\n\n\n\n\n\n处理结构化数据，生物数据统计，分析，绘图；\n处理MicroArrays芯片数据，RNAseq数据，流式细胞仪数据，定量PCR数据，质谱数据等;\n基因功能注释，GO，KEGG等；\n生物大数据的数据挖掘，机器学习等；\n\n\n\n非结构化数据处理，例如处理字符串；\n很难处理序列匹配，序列拼接，序列比对等工作；",
+    "crumbs": [
+      "第九章 R语言",
+      "<span class='chapter-number'>29</span>  <span class='chapter-title'>9.9 Bioconductor</span>"
+    ]
+  },
+  {
+    "objectID": "source/9-rbase/r9.html#bioconductor分类",
+    "href": "source/9-rbase/r9.html#bioconductor分类",
+    "title": "29  9.9 Bioconductor",
+    "section": "29.2 3.2 Bioconductor分类",
+    "text": "29.2 3.2 Bioconductor分类\n\n实验数据包ExperimentData\n软件包（Software）\n注释数据包（AnnotationData）\n\n下面列出bioconductor一些常用的扩展包，发展很快，现在已经有软件包1700多了。\n\n处理芯片数据： affy, affydata, affyPLM, affyQCReport, annaffy, annotate,\n处理序列：ShortRead，Biobase, Biostrings,\nRNAseq分析：Deseq，Deseq2，edgeR，limma，baySeq，DEGseq，DEXseq；\nChp-seq分析：CSAR，chipseq，ChIPseqR，ChIPsiim；\n基因功能注释：AnnotationDbi，biomaRt, GOstats，\nannotate，GeneAnswers，Goseq，topGO；\n其他： gcrma, genefilter, geneplotter, GenomicRanges, marray, multtest, vsn, 和xtable\n\n\n\n\nimage-20240221080119512\n\n\n图 18 bioconductor 分类",
+    "crumbs": [
+      "第九章 R语言",
+      "<span class='chapter-number'>29</span>  <span class='chapter-title'>9.9 Bioconductor</span>"
+    ]
+  },
+  {
+    "objectID": "source/9-rbase/r9.html#常用工作流程",
+    "href": "source/9-rbase/r9.html#常用工作流程",
+    "title": "29  9.9 Bioconductor",
+    "section": "29.3 3常用工作流程",
+    "text": "29.3 3常用工作流程\nBioconductor提供28个完整工作流程Workflow，这些workflow是利用多个R包完成一些完整的数据分析工作。每个工作流程提供案例数据，脚本，结果，文档以及详细的介绍，是非常好的学习材料。包括RNAseq数据分析，芯片数据分析，单细胞测序，TCGA数据挖掘，基因功能注释等完整流程。\n网站：http://www.bioconductor.org/packages/release/BiocViews.html#___Workflow\n\n\n\nimage-20240221080139676\n\n\n图 3 Bioconductor workflow",
+    "crumbs": [
+      "第九章 R语言",
+      "<span class='chapter-number'>29</span>  <span class='chapter-title'>9.9 Bioconductor</span>"
+    ]
+  },
+  {
+    "objectID": "source/9-rbase/r9.html#bioconductor包的安装",
+    "href": "source/9-rbase/r9.html#bioconductor包的安装",
+    "title": "29  9.9 Bioconductor",
+    "section": "29.4 4 Bioconductor包的安装",
+    "text": "29.4 4 Bioconductor包的安装\n为了便于bioconductor包的管理，bioconductor采用不同的函数来管理bioconductor的扩展包。并且bioconductor的服务器与R也不同，因此，在安装bioconductor包之前，还需要修改bioconductor包的默认镜像站点。由于bioconductor的镜像站点比较少，因此，这一步非常关键，会对下载速度产生非常大的影响。\nchooseBioCmirror()  \nif (!requireNamespace(\"BiocManager\"))\n    install.packages(\"BiocManager\")\nBiocManager::install(“Deseq2”)\nlibrary(Deseq2)",
+    "crumbs": [
+      "第九章 R语言",
+      "<span class='chapter-number'>29</span>  <span class='chapter-title'>9.9 Bioconductor</span>"
+    ]
+  }
+]
